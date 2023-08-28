@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d85d1a683ea25de",
+        "id": "90825aa2580c9cda",
         "type": "tabs",
         "children": [
           {
-            "id": "8df0ff82469b42bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 11.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4342408b7c5aba60",
+            "id": "2c706536143657e1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -29,32 +16,15 @@
             }
           },
           {
-            "id": "6c056610d20a7db8",
+            "id": "b9217603f9a6e062",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7be68b3112454cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 8.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Java 11.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -174,7 +140,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,17 +148,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1477605a7c51c8be",
+  "active": "b9217603f9a6e062",
   "lastOpenFiles": [
-    "Games.md",
-    "Java/Java 11.md",
-    "Untitled",
-    "Games",
-    "Untitled.canvas",
-    "Java/Java 10.md",
-    "Java/Java 9.md",
-    "Java/Java 8.md",
+    "Java Weekly/Java weekly.md",
+    "Java Weekly/Consume HTTP like a pro.md",
     "Java/Java versions.md",
+    "Java/Java 10.md",
+    "Java Weekly",
+    "Untitled.canvas",
+    "Games.md",
+    "Java/Java 8.md",
+    "Java/Java 9.md",
+    "Java/Java 11.md",
+    "Java Weekly",
+    "2023-08-25.md",
+    "Games",
     "Java",
     "Core/Second.md",
     "Core/First.md",

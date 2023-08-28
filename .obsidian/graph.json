@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file: java",
+      "query": "tag:#java",
       "color": {
         "a": 1,
         "rgb": 16514826
       }
     },
     {
+      "query": "tag:#javaweekly",
+      "color": {
+        "a": 1,
+        "rgb": 1593851
+      }
+    },
+    {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11657298
       }
     }
   ],
