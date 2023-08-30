@@ -22,9 +22,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ae130d2a49a08adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CV.md"
+              }
             }
           }
         ],
@@ -148,9 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28b7c2fe4b923612",
+  "active": "ae130d2a49a08adb",
   "lastOpenFiles": [
     "Skype.md",
+    "CV.md",
+    "Untitled",
     "Java Weekly/Java weekly.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java/Java versions.md",
