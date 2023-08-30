@@ -22,22 +22,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f3658dbb51ba7dd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skype.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Skype.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -165,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3658dbb51ba7dd8",
+  "active": "28b7c2fe4b923612",
   "lastOpenFiles": [
     "Skype.md",
     "Java Weekly/Java weekly.md",
