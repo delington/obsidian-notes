@@ -27,8 +27,13 @@
             "id": "ae130d2a49a08adb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CV.md"
+              }
             }
           }
         ],
@@ -158,6 +167,7 @@
   },
   "active": "ae130d2a49a08adb",
   "lastOpenFiles": [
+    "Games.md",
     "CV.md",
     "Skype.md",
     "Untitled",
@@ -167,7 +177,6 @@
     "Java/Java 10.md",
     "Java Weekly",
     "Untitled.canvas",
-    "Games.md",
     "Java/Java 8.md",
     "Java/Java 9.md",
     "Java/Java 11.md",
