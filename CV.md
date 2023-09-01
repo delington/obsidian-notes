@@ -10,6 +10,6 @@
 
 ---
 
-**Tools:** AWS DynamoDB, IntelliJ IDEA, Git, Maven, Docker
+**Tools:** AWS DynamoDB, IntelliJ IDEA, Git, Maven, Docker, SourceTree
 
-**Technologies:** Git, Spring Boot 2.x, Kotlin 1.4, Java 11, Docker Containers,  Locust (Python load testing tool), Python
+**Technologies:** Spring Boot 2.x, Kotlin 1.4, Java 11, Docker Containers,  Locust (Python load testing tool), Python
