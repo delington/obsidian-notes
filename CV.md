@@ -1,9 +1,4 @@
 
-**Tools:** IntelliJ IDEA, Github
-
-**Technologies:** AWS, Spring Boot, Splunk, Grafana, Git, Java, JSP, JS, CSS
-
-**Tools:**  Maven, Trello, JIRA, Jenkins, AWS CLI, Putty, Vault
 
 **Technologies:** AWS, Java, Groovy, Kotlin, Project Reactor, JSP, JS, CSS, Splunk, Docker Containers, Grafana, Spring Boot, Jenkins, Git, AngularJS 1.4
 
@@ -15,6 +10,6 @@
 
 ---
 
-**Tools:** AWS DynamoDB
+**Tools:** AWS DynamoDB, IntelliJ IDEA, Git, Maven, Docker
 
-**Technologies:** Spring Boot 2.x, Kotlin 1.4, Java 11, Locust (Python load testing tool), Python
+**Technologies:** Git, Spring Boot 2.x, Kotlin 1.4, Java 11, Docker Containers,  Locust (Python load testing tool), Python
