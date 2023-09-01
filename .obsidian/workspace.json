@@ -11,8 +11,13 @@
             "id": "cb1b1cdd5da34b74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Games.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Games.md"
+              }
             }
           }
         ],
@@ -141,6 +150,7 @@
   },
   "active": "cb1b1cdd5da34b74",
   "lastOpenFiles": [
+    "Pasted image 20230902002312.png",
     "CV.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java Weekly/Java weekly.md",
