@@ -16,12 +16,15 @@
             }
           },
           {
-            "id": "a3867acc39c5dacd",
+            "id": "3be1b92134593033",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "CV.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -92,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CV.md"
+              }
             }
           }
         ],
@@ -150,8 +157,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3867acc39c5dacd",
+  "active": "3be1b92134593033",
   "lastOpenFiles": [
+    "CV.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java Weekly/Java weekly.md",
     "Games.md",
