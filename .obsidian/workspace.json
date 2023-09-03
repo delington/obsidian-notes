@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games.md",
+                "file": "Games/Games.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games.md",
+                "file": "Games/Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games.md",
+                "file": "Games/Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games.md"
+                "file": "Games/Games.md"
               }
             }
           },
@@ -159,22 +159,22 @@
   },
   "active": "28b7c2fe4b923612",
   "lastOpenFiles": [
+    "Games/Pasted image 20230902002312.png",
+    "Games/Games.md",
+    "Games",
     "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.svg",
     "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Pasted Image 20230903143929_537.jpg",
-    "Games.md",
+    "Games/Pasted Image 20230903143929_537.jpg",
     "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20230902003556.png",
-    "Pasted image 20230902002312.png",
+    "Games/Pasted image 20230902003556.png",
     "CV.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java Weekly/Java weekly.md",
     "CV.md",
     "Skype.md",
-    "Untitled",
     "Java/Java versions.md",
     "Java/Java 10.md",
     "Java Weekly",
