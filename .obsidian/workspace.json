@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "957f88786d26d17c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games.md",
+                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games.md",
+                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games.md"
+                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md"
               }
             }
           },
@@ -139,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -157,14 +168,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9a4bbe8aebf55b4",
+  "active": "957f88786d26d17c",
   "lastOpenFiles": [
+    "Pasted Image 20230903143929_537.jpg",
+    "Games.md",
+    "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",
+    "Excalidraw",
     "Pasted image 20230902003556.png",
     "Pasted image 20230902002312.png",
     "CV.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java Weekly/Java weekly.md",
-    "Games.md",
     "CV.md",
     "Skype.md",
     "Untitled",
