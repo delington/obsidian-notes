@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "957f88786d26d17c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",
+                "file": "Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",
+                "file": "Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md"
+                "file": "Games.md"
               }
             }
           },
@@ -168,8 +157,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "957f88786d26d17c",
+  "active": "28b7c2fe4b923612",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
     "Pasted Image 20230903143929_537.jpg",
     "Games.md",
     "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",

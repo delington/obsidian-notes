@@ -81,7 +81,15 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Ellipse Selected Elements": {
+      "Prompt for padding?": true,
+      "Default padding": {
+        "value": 10,
+        "description": "Padding between the bounding box of the selected elements, and the ellipse the script creates"
+      }
+    }
+  },
   "defaultTrayMode": true,
   "previousRelease": "1.9.19",
   "showReleaseNotes": true,
