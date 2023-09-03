@@ -19,10 +19,8 @@
             "id": "5b435365b3bb5cb2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.50.49.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.50.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.50.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-09-03 14.50.49.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +148,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "cmdr:Graph view: Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -165,8 +159,8 @@
   },
   "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-03 14.51.50.excalidraw.md",
     "Excalidraw/Drawing 2023-09-03 14.50.49.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-03 14.51.50.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
     "Games/Games.md",
