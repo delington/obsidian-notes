@@ -35,7 +35,7 @@ A planned replacement for JNI (Java Native Interface), allowing you to bind to n
 
 #### Records & Pattern Matching
 
-Both features are now production-ready, and not marked `_in preview_` anymore.
+Both features are now `production-ready`, and not marked in preview anymore.
 
 #### Sealed Classes
 
