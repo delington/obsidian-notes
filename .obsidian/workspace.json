@@ -19,13 +19,8 @@
             "id": "5b435365b3bb5cb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 13.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Java 13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +159,10 @@
   },
   "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
-    "Java/Java 12.md",
+    "Java/Java versions.md",
+    "Java/Java 14.md",
     "Java/Java 13.md",
+    "Java/Java 12.md",
     "Excalidraw/Drawing 2023-09-03 14.50.49.excalidraw.md",
     "Excalidraw/Drawing 2023-09-03 14.51.50.excalidraw.md",
     "Untitled.canvas",
@@ -189,7 +182,6 @@
     "Java Weekly/Java weekly.md",
     "CV.md",
     "Skype.md",
-    "Java/Java versions.md",
     "Java/Java 10.md",
     "Java Weekly",
     "Java/Java 8.md",
