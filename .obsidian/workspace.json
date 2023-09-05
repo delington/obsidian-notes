@@ -19,13 +19,8 @@
             "id": "5b435365b3bb5cb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Java 14.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Java 14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,6 +161,7 @@
   "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
     "Java/Java versions.md",
+    "Java/Java 15.md",
     "Java/Java 14.md",
     "Java/Java 13.md",
     "Java/Java 12.md",
