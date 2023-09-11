@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6813550def1c9f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hotel Delfin.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 17.md",
+                "file": "Hotel Delfin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 17.md",
+                "file": "Hotel Delfin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java 17.md"
+                "file": "Hotel Delfin.md"
               }
             }
           },
@@ -167,11 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b435365b3bb5cb2",
+  "active": "d6813550def1c9f2",
   "lastOpenFiles": [
+    "Java/Java 17.md",
+    "Hotel Delfin.md",
     "Java/Java 16.md",
     "Java/Java 18.md",
-    "Java/Java 17.md",
     "Java/Java 13.md",
     "Java/Java 12.md",
     "Java/Java versions.md",
@@ -208,7 +222,6 @@
     "Core/Second.md",
     "Core/First.md",
     "Core",
-    "Simple.md",
     "348485763_193759473152506_51652286419197f32910_n.jpg",
     "IMG_20230621_110448.jpg",
     "Képernyőkép 2023-07-12 222625.png",
