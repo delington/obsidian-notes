@@ -14,7 +14,10 @@ Pihenés: 1/10
 
 Magyar:
 
-Hűha, miért is ne élveztük volna ezt a fantasztikus élményt a hotelben? A második napon egy óriási, 13-14 éves gyerekhad érkezett, és szó szerint olyan hangoskodást csaptak, hogy akár egy állatfarm lehetett volna! Már az elején sejthettük, hogy egy ilyen idillikus helyen nem fogunk pihenni. Ha a hotelnek van szabályzata, akkor most már tudjuk, hogy csak dekoráció, mert a minősíthetetlen zajorgia, a folyosón focizás, kopogtatás, ajtócsapkodás és a hangos zene, bútortologatás (este!), indokolatlan (Vito!, Andrej!, Ivan!) üvöltözések több szinten csak simán kifejezi a hotel hangulatát.
+A hotel nagyon szép helyen helyezkedik el. Közel van a tengerpart.
+Svédasztal van, az ételek finomak nem sokat kell várni 5-10 percet csak a vacsorára. Az első napon csend volt, tudtuk rendesen pihenni.
+
+A második napon egy óriási, 13-14 éves gyerekhad érkezett, és szó szerint olyan hangoskodást csaptak, hogy akár egy állatfarm lehetett volna! Már az elején sejthettük, hogy egy ilyen idillikus helyen nem fogunk pihenni. Ha a hotelnek van szabályzata, akkor most már tudjuk, hogy csak dekoráció, mert a minősíthetetlen zajorgia, a folyosón focizás, kopogtatás, ajtócsapkodás és a hangos zene, bútortologatás (este!), indokolatlan (Vito!, Andrej!, Ivan!) üvöltözések több szinten csak simán kifejezi a hotel hangulatát.
 
 Aztán persze másnap délután ismét folytatódtak a zajos kalandok. A csapat gyerek a 3. napon elköltözött, de este 7-kor jöttek helyette egy ugyanolyan korú és hangos csoport. Ők csak 23:15-ig hangoskodtak, de az előző csapattal ellentétben itt már reggel 7 órakor sikerült felébreszteniük még úgy is, hogy fülldugóval aludtam. A tanárnők, felügyelők munkáját se az előző, se a mostani csoportnál nem tudtam megdicsérni, mintha nem is lettek volna, fegyelmezni smafu. 
 
@@ -24,8 +27,8 @@ Wifi fogható körülbelül mindehol KIVÉVE a szobákban. A papírvékony szob�
 
 A takarítás rendben volt.
 
-Én is olvastam a kommenteket a Google értékelésnél, azt hittem ilyen velünk nem történhet meg. De megtörtént és amikor a portán jeleztük, hogy ezek a gyerek csoportok nagyon zavaróak voltak, csak annyit mondtak, tudnak róla. 
-Bizony, ezért a hotelért mi sosem fogunk többet visszatérni, és nem is ajánljuk senkinek, aki épp csendes, nyugodt pihenésre vágyik. De hát végül is, ki is szeretne pihenni a nyaralás során, igaz? Szomorú, hogy minden adott volt, de ilyenen csúszott el az egész. Életünk egyik legrosszabb nyaralása volt. 
+Én is olvastam a kommenteket a Google értékelésnél, azt hittem ilyen velünk nem történhet meg. De megtörtént és amikor a portán jeleztük, hogy ezek a gyerek csoportok nagyon zavaróak voltak, csak annyit mondtak, tudnak róla. :-)
+Ezért a hotelért mi sosem fogunk többet visszatérni, és nem is ajánljuk senkinek, aki épp csendes, nyugodt pihenésre vágyik. De hát végül is, ki is szeretne pihenni a nyaralás során, igaz? Szomorú, hogy minden adott volt, de ilyenen csúszott el az egész. Életünk egyik legrosszabb nyaralása volt. 
 
 Igaz a mondás, hogy olcsó húsnak híg a leve...
 
