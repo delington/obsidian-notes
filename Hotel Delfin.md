@@ -15,7 +15,7 @@ Pihenés: 1/10
 Magyar:
 
 A hotel nagyon szép helyen helyezkedik el. Közel van a tengerpart.
-Svédasztal van, az ételek finomak nem sokat kell várni 5-10 percet csak a vacsorára. Az első napon csend volt, tudtuk rendesen pihenni.
+Svédasztal van, az ételek finomak, nem sokat kell várni 5-10 percet csak a vacsorára. Az első napon csend volt, tudtuk rendesen pihenni.
 
 A második napon egy óriási, 13-14 éves gyerekhad érkezett, és szó szerint olyan hangoskodást csaptak, hogy akár egy állatfarm lehetett volna! Már az elején sejthettük, hogy egy ilyen idillikus helyen nem fogunk pihenni. Ha a hotelnek van szabályzata, akkor most már tudjuk, hogy csak dekoráció, mert a minősíthetetlen zajorgia, a folyosón focizás, kopogtatás, ajtócsapkodás és a hangos zene, bútortologatás (este!), indokolatlan (Vito!, Andrej!, Ivan!) üvöltözések több szinten csak simán kifejezi a hotel hangulatát.
 
@@ -23,7 +23,7 @@ Aztán persze másnap délután ismét folytatódtak a zajos kalandok. A csapat 
 
 Amikor a szüleim hasmenést kaptak valamelyik ételtől (azért nem mindegyik étel ehető állapotú), a személyzet kedves volt és adtak széntablettát.
 
-Wifi fogható körülbelül mindehol KIVÉVE a szobákban. A papírvékony szobák minden hangot átadnak, de leglalább a Wifi-t leárnyékolják, milyen nagyszerű dizájn. Este a parton kellett interneteznünk, de annyiból jó volt, hogy legalább addig se hallottuk a gyerekzsivajt.
+Wifi fogható körülbelül mindehol KIVÉVE a szobákban. A papírvékony falak minden hangot átadnak, de leglalább a Wifi-t leárnyékolják, milyen nagyszerű dizájn. Este a parton kellett interneteznünk, de annyiból jó volt, hogy legalább addig se hallottuk a gyerekzsivajt.
 
 A takarítás rendben volt.
 
