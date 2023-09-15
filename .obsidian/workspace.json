@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotel Delfin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hotel Delfin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hotel Delfin.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,8 +198,8 @@
   },
   "active": "d1ce31bcd2a2037b",
   "lastOpenFiles": [
-    "Java/Java 17.md",
     "Hotel Delfin.md",
+    "Java/Java 17.md",
     "Java/Java 16.md",
     "Java/Java 18.md",
     "Java/Java 13.md",
