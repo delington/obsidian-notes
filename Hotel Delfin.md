@@ -27,14 +27,14 @@ Wifi fogható körülbelül mindehol KIVÉVE a szobákban. A papírvékony falak
 
 A takarítás rendben volt.
 
-Én is olvastam a kommenteket a Google értékelésnél, azt hittem ilyen velünk nem történhet meg. De megtörtént és amikor a portán jeleztük, hogy ezek a gyerek csoportok nagyon zavaróak voltak, csak annyit mondtak, tudnak róla. :-)
+Én is olvastam a kommenteket a Google értékelésnél, azt hittem ilyen velünk nem történhet meg. De megtörtént és amikor a portán jeleztük, hogy ezek a gyerek csoportok nagyon zavaróak, csak annyit mondtak, tudnak róla. :-)
 Ezért a hotelért mi sosem fogunk többet visszatérni, és nem is ajánljuk senkinek, aki épp csendes, nyugodt pihenésre vágyik. De hát végül is, ki is szeretne pihenni a nyaralás során, igaz? Szomorú, hogy minden adott volt, de ilyenen csúszott el az egész. Életünk egyik legrosszabb nyaralása volt. 
 
 Igaz a mondás, hogy olcsó húsnak híg a leve...
 
 Helyszín: 10/10
 Ételek: 7/10
-Pihenés: 1/10
+Pihenés: 0/10
 
 English:
 
