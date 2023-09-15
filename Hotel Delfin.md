@@ -16,11 +16,11 @@ Magyar:
 
 Hűha, miért is ne élveztük volna ezt a fantasztikus élményt a hotelben? A második napon egy óriási, 13-14 éves gyerekhad érkezett, és szó szerint olyan hangoskodást csaptak, hogy akár egy állatfarm lehetett volna! Már az elején sejthettük, hogy egy ilyen idillikus helyen nem fogunk pihenni. Ha a hotelnek van szabályzata, akkor most már tudjuk, hogy csak dekoráció, mert a minősíthetetlen zajorgia, a folyosón focizás, kopogtatás, ajtócsapkodás és a hangos zene, bútortologatás (este!), indokolatlan (Vito!, Andrej!, Ivan!) üvöltözések több szinten csak simán kifejezi a hotel hangulatát.
 
-A bútorokat pedig olyan kreatívan húzgálták, hogy azt hihettük, egy modern művészeti kiállításban vagyunk, ahol az absztrakt zajszimfónia a főattrakció. Ja, és igen, meg kell említeni, hogy teljesen indokolatlanul is képesek voltak üvöltözni. Aztán persze másnap délután ismét folytatódtak a zajos kalandok. A csapat gyerek a 3. napon elköltözött, de este 7-kor jöttek helyette egy ugyanolyan korú és hangos csoport. Ők csak 23:15-ig hangoskodtak, de az előző csapattal ellentétben itt már reggel 7 órakor sikerült felébreszteniük. A tanárnők, felügyelők munkáját se az előző se a mostani csoportnál nem tudtam megdicsérni, mintha nem is lettek volna, fegyelmezni smafu. 
+Aztán persze másnap délután ismét folytatódtak a zajos kalandok. A csapat gyerek a 3. napon elköltözött, de este 7-kor jöttek helyette egy ugyanolyan korú és hangos csoport. Ők csak 23:15-ig hangoskodtak, de az előző csapattal ellentétben itt már reggel 7 órakor sikerült felébreszteniük még úgy is, hogy fülldugóval aludtam. A tanárnők, felügyelők munkáját se az előző, se a mostani csoportnál nem tudtam megdicsérni, mintha nem is lettek volna, fegyelmezni smafu. 
 
 Amikor a szüleim hasmenést kaptak valamelyik ételtől (azért nem mindegyik étel ehető állapotú), a személyzet kedves volt és adtak széntablettát.
 
-Wifi fogható körülbelül mindehol KIVÉVE a szobákban. A papírvékony szobák minden hangot átadnak, de leglalább a Wifi-t leárnyékolják. Milyen nagyszerű dizájn. Este a parton kellett interneteznünk, de annyiból jó volt, hogy legalább nem hallottuk a gyerekzsivajt.
+Wifi fogható körülbelül mindehol KIVÉVE a szobákban. A papírvékony szobák minden hangot átadnak, de leglalább a Wifi-t leárnyékolják, milyen nagyszerű dizájn. Este a parton kellett interneteznünk, de annyiból jó volt, hogy legalább addig se hallottuk a gyerekzsivajt.
 
 A takarítás rendben volt.
 
@@ -28,6 +28,10 @@ A takarítás rendben volt.
 Bizony, ezért a hotelért mi sosem fogunk többet visszatérni, és nem is ajánljuk senkinek, aki épp csendes, nyugodt pihenésre vágyik. De hát végül is, ki is szeretne pihenni a nyaralás során, igaz? Szomorú, hogy minden adott volt, de ilyenen csúszott el az egész. Életünk egyik legrosszabb nyaralása volt. 
 
 Igaz a mondás, hogy olcsó húsnak híg a leve...
+
+Helyszín: 10/10
+Ételek: 7/10
+Pihenés: 1/10
 
 English:
 
