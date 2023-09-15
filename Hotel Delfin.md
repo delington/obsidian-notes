@@ -9,7 +9,7 @@ Még jó, hogy este 11-kor már csöndben voltak. Persze másnap délután kezd�
 Emiatt soha többet nem választjuk ezt a hotel és nem ajánlom senkinek se hogy idejöjjön. Egyébként egész jó lett volna. Szomorú hogy ilyenen csúszott el a nyaralásunk.
 
 Helyszín: 10/10
-Ételek: 8/10
+Ételek: 7/10
 Pihenés: 1/10
 
 Magyar:
@@ -18,7 +18,12 @@ Hűha, miért is ne élveztük volna ezt a fantasztikus élményt a hotelben? A 
 
 A bútorokat pedig olyan kreatívan húzgálták, hogy azt hihettük, egy modern művészeti kiállításban vagyunk, ahol az absztrakt zajszimfónia a főattrakció. Ja, és igen, meg kell említeni, hogy teljesen indokolatlanul is képesek voltak üvöltözni. Aztán persze másnap délután ismét folytatódtak a zajos kalandok. A csapat gyerek a 3. napon elköltözött, de este 7-kor jöttek helyette egy ugyanolyan korú és hangos csoport. Ők csak 23:15-ig hangoskodtak, de az előző csapattal ellentétben itt már reggel 7 órakor sikerült felébreszteniük. A tanárnők, felügyelők munkáját se az előző se a mostani csoportnál nem tudtam megdicsérni, mintha nem is lettek volna, fegyelmezni smafu. 
 
-Bizony, ezért a hotelért mi sosem fogunk többet visszatérni, és nem is ajánljuk senkinek, aki épp csendes, nyugodt pihenésre vágyik. De hát végül is, ki is szeretne valaha pihenni a nyaralás során, igaz? Szomorú, hogy minden adott volt, de ilyenen csúszott el az egész. Életünk egyik legrosszabb nyaralása volt. Én is olvastam a kommenteket a Google értékelésnél, azt hittem ilyen velünk nem történhet meg. De megtörtént és amikor a portán jeleztük, hogy ez gyerek csoportok nagyon idegesítőek voltak, csak annyit mondtak, tudnak róla.
+Amikor a szüleim hasmenést kaptak valamelyik ételtől (azért nem mindegyik étel ehető állapotú), a személyzet kedves volt és adtak széntablettát.
+
+Bizony, ezért a hotelért mi sosem fogunk többet visszatérni, és nem is ajánljuk senkinek, aki épp csendes, nyugodt pihenésre vágyik. De hát végül is, ki is szeretne pihenni a nyaralás során, igaz? Szomorú, hogy minden adott volt, de ilyenen csúszott el az egész. Életünk egyik legrosszabb nyaralása volt. 
+Én is olvastam a kommenteket a Google értékelésnél, azt hittem ilyen velünk nem történhet meg. De megtörtént és amikor a portán jeleztük, hogy ezek a gyerek csoportok nagyon zavaróak voltak, csak annyit mondtak, tudnak róla. 
+
+Igaz a mondás, hogy olcsó húsnak híg a leve...
 
 English:
 
