@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1ce31bcd2a2037b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,6 +169,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "9773afbcf999be41",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -180,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6813550def1c9f2",
+  "active": "d1ce31bcd2a2037b",
   "lastOpenFiles": [
     "Java/Java 17.md",
     "Hotel Delfin.md",
