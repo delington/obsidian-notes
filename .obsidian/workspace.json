@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67afe90247db996e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5b435365b3bb5cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java 17.md",
+                "file": "Java Weekly/Java weekly.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 17.md",
+                "file": "Java Weekly/Java weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 17.md",
+                "file": "Java Weekly/Java weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java 17.md"
+                "file": "Java Weekly/Java weekly.md"
               }
             }
           },
@@ -179,8 +170,8 @@
   },
   "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
-    "Hotel Delfin.md",
     "Java/Java 17.md",
+    "Hotel Delfin.md",
     "Java/Java 16.md",
     "Java/Java 18.md",
     "Java/Java 13.md",

@@ -90,6 +90,19 @@
 	- And, **Valhalla under the hood**: an introduction to Q-descriptors and v-bytecodes
 
 - ### [Java Weekly, Issue 505](https://www.baeldung.com/java-weekly-505)
+	- **Cryptography** might be the best way to hide the JPA entity identifier from the end users of our application. Interesting
+	- A new flexible and powerful approach in Spring Data JDBC to **generate database migrations from your domain mode**
+	- And, how to store **files in a database** in Spring Boot applications — also evaluating some alternatives
+
+- ### [Java Weekly, Issue 506](https://www.baeldung.com/java-weekly-506)
+	- Content generation, code generation, semantic search, and summarization, **all provided by Spring AI**. Interesting
+	- **Loading arbitrary aggregates with a single select statement** using Single Query Loading in Spring Data JDBC
+	- And, **Netflix's journey to service mesh**: a bit of history on IPC and the path to Service Mesh using Envoy
+
+- ### [Java Weekly, Issue 507](https://www.baeldung.com/java-weekly-507)
+	- GraalVM native images using Spring Boot (via Spring Boot 3.2) **and Java 21's virtual threads (Project Loom)**
+	- How pattern **matching and sealed classes enhance** code maintainability, security, performance, and readability
+	- And a Practical Guide to Oracle's JSON Relational Duality with Micronaut: r**elational tables meet JSON documents**
 
 ---
 - [[Consume HTTP like a pro]]
