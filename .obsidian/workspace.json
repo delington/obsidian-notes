@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Weekly/Java weekly.md",
+                "file": "Java Weekly/Consume HTTP like a pro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Weekly/Java weekly.md",
+                "file": "Java Weekly/Consume HTTP like a pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Weekly/Java weekly.md",
+                "file": "Java Weekly/Consume HTTP like a pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Weekly/Java weekly.md"
+                "file": "Java Weekly/Consume HTTP like a pro.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
+    "Java Weekly/Java weekly.md",
     "Java/Java 17.md",
     "Hotel Delfin.md",
     "Java/Java 16.md",
@@ -195,7 +196,6 @@
     "Games/Pasted image 20230902003556.png",
     "CV.md",
     "Java Weekly/Consume HTTP like a pro.md",
-    "Java Weekly/Java weekly.md",
     "CV.md",
     "Skype.md",
     "Java/Java 10.md",
