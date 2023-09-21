@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java 8.md",
+                "file": "Games/Games.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 8.md",
+                "file": "Games/Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 8.md",
+                "file": "Games/Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java 8.md"
+                "file": "Games/Games.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
+    "Java/Java 8.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java Weekly/Java weekly.md",
     "Java/Java 17.md",
@@ -200,7 +201,6 @@
     "Skype.md",
     "Java/Java 10.md",
     "Java Weekly",
-    "Java/Java 8.md",
     "Java/Java 9.md",
     "Java/Java 11.md",
     "Java Weekly",
