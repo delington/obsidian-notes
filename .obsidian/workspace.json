@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45bef4574a2c101d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CV.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Games.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Games.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games/Games.md"
+                "file": "CV.md"
               }
             }
           },
@@ -168,13 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b435365b3bb5cb2",
+  "active": "45bef4574a2c101d",
   "lastOpenFiles": [
+    "Games/Games.md",
+    "CV.md",
+    "Hotel Delfin.md",
     "Java/Java 8.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java Weekly/Java weekly.md",
     "Java/Java 17.md",
-    "Hotel Delfin.md",
     "Java/Java 16.md",
     "Java/Java 18.md",
     "Java/Java 13.md",
@@ -186,7 +202,6 @@
     "Excalidraw/Drawing 2023-09-03 14.51.50.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw",
-    "Games/Games.md",
     "Games/Pasted image 20230902002312.png",
     "Games",
     "Excalidraw/Scripts/Downloaded/Ellipse Selected Elements.svg",
@@ -208,7 +223,6 @@
     "Games",
     "Java",
     "Core/Second.md",
-    "Core/First.md",
     "Core",
     "348485763_193759473152506_51652286419197f32910_n.jpg",
     "IMG_20230621_110448.jpg",
