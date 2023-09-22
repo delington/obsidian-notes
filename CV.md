@@ -1,6 +1,9 @@
-**Project:**
+**Project:** self-study, try out frameworks
 
-**Participation:**
+**Participation:** 
+
+- try out new frameworks
+- 
 
 **Database:**
 
