@@ -13,7 +13,7 @@
 - Implemented containerized testing
 - Created numerous projects following best practices to provide practical examples
 
-**Database:**
+**Database:** H2, MySQL, DynamoDB
 
 **Tools**: IntelliJ IDEA, Docker
 
