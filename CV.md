@@ -15,6 +15,6 @@
 
 **Database:**
 
-**Tools**: IntelliJ IDEA, Docker, JUnit 5, Spring-boot 2.6.4, , Retrofit2, Gson, H2, JPA, MapStruct
+**Tools**: IntelliJ IDEA, Docker, JUnit 5, Spring-boot 2.6.4, , Retrofit2, Gson, H2, JPA, MapStruct, Jacoco, GraphQL, MySQL
 
 **Technologies**:
