@@ -1,4 +1,4 @@
-**Project:** self-study
+**Project:** Self-directed Learning
 
 **Participation:** 
 
