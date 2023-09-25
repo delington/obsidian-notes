@@ -3,6 +3,7 @@
 - Philosopher's garden - also unique view and next to Gellért hill
 - Deák square - Budapest eye/grand wheel
 - Buda castle
+- Fishermen's bastion
 - Grand Hall Market at Fővám square
 - House of Music at Városliget (city park)
 - Heroes's square near Városliget
@@ -10,6 +11,7 @@
 - Hungarian Parlament
 - Margareth Island
 - Gül Baba Türbe and rose garden
+- Fiumei street cemetery
 
 Baths:
 - Széchenyi bath
