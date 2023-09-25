@@ -4,7 +4,9 @@
 - Deák square - Budapest eye/grand wheel
 - Buda castle
 - Grand Hall Market at Fővám square
-
+- House of Music at Városliget (city park)
+- Heroes's square near Városliget
+- Folklore Museum near Városliget (its an U shaped museum into the ground)
 
 Baths:
 - Széchenyi bath
@@ -13,5 +15,13 @@ Baths:
 
 Restaurants with Hungarian food:
 - Frici papa - https://maps.app.goo.gl/8YvdKpzd4LUf1cex6
-- Fakanál (wooden) rest. at Fővám square Grand Hall Market - https://maps.app.goo.gl/t7yfzFWzHfYPo8Xj9
+- Fakanál (wooden spoon) restaurant at Fővám square Grand Hall Market - https://maps.app.goo.gl/t7yfzFWzHfYPo8Xj9
 - Lángosom (My lángos) - https://maps.app.goo.gl/a7s7udMJQPx7q5X38
+
+Gay places:
+- Why not café - gay friendly 
+- Gaby's restaurant - gay friendly
+- Coxx - cruising place
+- Magnum - gay sauna
+- Sauna 69 - gay sauna
+- Alterego - gay club
