@@ -7,6 +7,9 @@
 - House of Music at Városliget (city park)
 - Heroes's square near Városliget
 - Folklore Museum near Városliget (its an U shaped museum into the ground)
+- Hungarian Parlament
+- Margareth Island
+- Gül Baba Türbe and rose garden
 
 Baths:
 - Széchenyi bath
