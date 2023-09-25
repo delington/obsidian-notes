@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf0bbb3df468cf3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -182,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45bef4574a2c101d",
+  "active": "bf0bbb3df468cf3e",
   "lastOpenFiles": [
-    "Games/Games.md",
     "CV.md",
+    "Untitled.md",
+    "Games/Games.md",
     "Hotel Delfin.md",
     "Java/Java 8.md",
     "Java Weekly/Consume HTTP like a pro.md",
@@ -211,8 +225,6 @@
     "Games/Pasted Image 20230903143929_537.jpg",
     "Excalidraw/Drawing 2023-09-03 14.38.11.excalidraw.md",
     "Games/Pasted image 20230902003556.png",
-    "CV.md",
-    "CV.md",
     "Skype.md",
     "Java/Java 10.md",
     "Java Weekly",
