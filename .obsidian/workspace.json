@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Budapest sightseeing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "CV.md"
               }
             }
           },
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf0bbb3df468cf3e",
+  "active": "45bef4574a2c101d",
   "lastOpenFiles": [
+    "Budapest sightseeing.md",
     "CV.md",
-    "Untitled.md",
     "Games/Games.md",
     "Hotel Delfin.md",
     "Java/Java 8.md",
