@@ -2,17 +2,17 @@
 
 **Participation**:
 
-- Experiment with new frameworks.
-- Game development.
-- Development of game graphics components.
-- Read articles on Java and various frameworks.
-- Practical application of Java, Kotlin and other frameworks in mini-projects.
-- Containerized an existing application.
-- In an existing application deprecated old APIs to modern ones.
+- Experiment with new frameworks
+- Game development
+- Development of game graphics components
+- Read articles on Java and various frameworks
+- Practical application of Java, Kotlin and other frameworks in mini-projects
+- Containerized an existing application
+- In an existing application deprecated old APIs to modern ones
 - Code generation regarding API documentation
 - Implemented containerized testing
 - Created numerous projects following best practices to provide practical examples
-- Using chatGPT for small practical projects
+- Utilizing chatGPT for small pragmatic projects
 
 **Database**: H2, MySQL, DynamoDB
 
