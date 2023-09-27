@@ -12,11 +12,11 @@
 - Code generation regarding API documentation
 - Implemented containerized testing
 - Created numerous projects following best practices to provide practical examples
-- Utilizing chatGPT for small pragmatic projects
-- Prepackage file manager with dark theme capabilities
+- Utilizing chatGPT for small pragmatic projects in Python and Java
+- Package file manager, now with dark theme capabilities
 
 **Database**: H2, MySQL, DynamoDB
 
 **Tools**: IntelliJ IDEA, Docker
 
-**Technologies**: Java 11/17, Kotlin 1.4, JUnit 5, Spring Boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3
+**Technologies**: Java 11/17, Kotlin 1.4, JUnit 5, Spring Boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3,, Double Commander 1.0.3
