@@ -34,6 +34,16 @@
             }
           },
           {
+            "id": "aad0d2e262695c12",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "bf0bbb3df468cf3e",
             "type": "leaf",
             "state": {
@@ -47,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45bef4574a2c101d",
+  "active": "aad0d2e262695c12",
   "lastOpenFiles": [
     "Budapest sightseeing.md",
     "CV.md",
