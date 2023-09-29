@@ -34,12 +34,15 @@
             }
           },
           {
-            "id": "aad0d2e262695c12",
+            "id": "e3e47bbfba91e36b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "Spring boot 2.7 to 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -123,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "Spring boot 2.7 to 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV.md",
+                "file": "Spring boot 2.7 to 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV.md"
+                "file": "Spring boot 2.7 to 3.md"
               }
             }
           },
@@ -205,10 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aad0d2e262695c12",
+  "active": "e3e47bbfba91e36b",
   "lastOpenFiles": [
-    "Budapest sightseeing.md",
     "CV.md",
+    "Spring boot 2.7 to 3.md",
+    "Budapest sightseeing.md",
     "Games/Games.md",
     "Hotel Delfin.md",
     "Java/Java 8.md",
