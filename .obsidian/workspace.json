@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Games.md",
+                "file": "CV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Games.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Games.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games/Games.md"
+                "file": "CV.md"
               }
             }
           },
@@ -210,10 +210,10 @@
   },
   "active": "e3e47bbfba91e36b",
   "lastOpenFiles": [
+    "Games/Games.md",
     "Spring boot 2.7 to 3.md",
     "CV.md",
     "Budapest sightseeing.md",
-    "Games/Games.md",
     "Hotel Delfin.md",
     "Java/Java 8.md",
     "Java Weekly/Consume HTTP like a pro.md",

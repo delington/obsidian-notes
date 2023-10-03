@@ -13,7 +13,8 @@
 	- Practical application of Java, Kotlin and other frameworks in mini-projects
 	- Experiment with new frameworks
 - Utilizing chatGPT for small pragmatic projects in Python and Java
-	- Package file manager, now with dark theme capabilities
+	- open source apps now with dark theme
+	- spring-boot yml file resolver
 
 **Database**: H2, MySQL, DynamoDB
 
