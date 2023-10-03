@@ -2,14 +2,15 @@
 
 **Participation**:
 
-- Game development
-- Development of game graphics components
+- Game development (Godot 3.5):
+	- game logic implementation
+	- creating graphical and UI components
 - Read articles on Java and various frameworks
-- Containerized an existing application
+- Containerized an existing application (Docker)
 - In an existing application deprecated old APIs to modern ones
 - Created numerous projects following best practices to provide practical examples:
 	- Code generation regarding API documentation
-	- Implemented containerized testing
+	- Implemented containerized testing (testcontainer)
 	- Practical application of Java, Kotlin and other frameworks in mini-projects
 	- Experiment with new frameworks
 - Utilizing chatGPT for small pragmatic projects in Python and Java
