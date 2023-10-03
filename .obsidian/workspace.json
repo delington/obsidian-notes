@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring boot 2.7 to 3.md",
+                "file": "Games/Games.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring boot 2.7 to 3.md",
+                "file": "Games/Games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring boot 2.7 to 3.md",
+                "file": "Games/Games.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring boot 2.7 to 3.md"
+                "file": "Games/Games.md"
               }
             }
           },
@@ -210,8 +210,8 @@
   },
   "active": "e3e47bbfba91e36b",
   "lastOpenFiles": [
-    "CV.md",
     "Spring boot 2.7 to 3.md",
+    "CV.md",
     "Budapest sightseeing.md",
     "Games/Games.md",
     "Hotel Delfin.md",
