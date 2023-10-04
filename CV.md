@@ -6,8 +6,10 @@
 	- game logic implementation
 	- creating graphical and UI components
 - Read articles on Java and various frameworks
-- Containerized an existing application (Docker)
-- In an existing application deprecated old APIs to modern ones
+- Spring-boot app experiments:
+	- Containerized an existing application (Docker)
+	- In an existing application deprecated old APIs to modern ones
+	- Add small CSS framework for better design (Pico CSS)
 - Created numerous projects following best practices to provide practical examples:
 	- Code generation regarding API documentation (Swagger Codegen)
 	- Implemented containerized testing (testcontainer)
