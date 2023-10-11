@@ -6,7 +6,7 @@
 	- design layout
 	- creating graphical and UI components
 	- game logic implementation
-- Spring-boot app experiments:
+- Spring Boot app experiments:
 	- Containerized an existing application (Docker)
 	- In an existing application deprecated old APIs to modern ones
 	- Add small CSS framework for better design (Pico CSS)
@@ -16,10 +16,10 @@
 	- Experiment with frameworks and tools (DynamoDB, GraphQL, Mapstruct, Spring-Data)
 - Utilizing chatGPT for small pragmatic projects in Python and Java
 	- small GUI apps to add dark theme to open source apps (Deluge, Double Commander)
-	- Spring-boot yml file resolver
+	- Spring Boot yml file resolver
 
 **Database**: H2, MySQL, DynamoDB
 
 **Tools**: IntelliJ IDEA, Docker
 
-**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring-boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3, Double Commander 1.x, Deluge 2.x
+**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo Coverage, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3.x, Double Commander 1.x, Deluge 2.x
