@@ -5,7 +5,6 @@
 - Game development (Godot 3.5):
 	- game logic implementation
 	- creating graphical and UI components
-- Read articles on Java and various frameworks
 - Spring-boot app experiments:
 	- Containerized an existing application (Docker)
 	- In an existing application deprecated old APIs to modern ones

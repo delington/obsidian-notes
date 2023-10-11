@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java 14.md",
+                "file": "CV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java 14.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java 14.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java 14.md"
+                "file": "CV.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "e3e47bbfba91e36b",
   "lastOpenFiles": [
+    "Java/Java 14.md",
     "Java/Java 8.md",
     "Java/Java versions.md",
     "CV.md",
@@ -225,7 +226,6 @@
     "Java/Java 13.md",
     "Java/Java 12.md",
     "Java/Java 15.md",
-    "Java/Java 14.md",
     "Excalidraw/Drawing 2023-09-03 14.50.49.excalidraw.md",
     "Excalidraw/Drawing 2023-09-03 14.51.50.excalidraw.md",
     "Untitled.canvas",
