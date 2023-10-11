@@ -14,6 +14,7 @@
 	- Implemented containerized testing (testcontainer)
 	- Practical application of Java, Kotlin and other frameworks in mini-projects
 	- Experiment with new frameworks
+	- Pre-setup spring-boot project with DynamoDB
 - Utilizing chatGPT for small pragmatic projects in Python and Java
 	- small GUI apps to add dark theme to open source apps (Deluge, Double Commander)
 	- spring-boot yml file resolver
