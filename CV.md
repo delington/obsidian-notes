@@ -23,4 +23,4 @@
 
 **Tools**: IntelliJ IDEA, Docker
 
-**Technologies**: Java 11/17, Kotlin 1.4, JUnit 5, Spring Boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3, Double Commander 1.x, Deluge 2.x
+**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3, Double Commander 1.x, Deluge 2.x
