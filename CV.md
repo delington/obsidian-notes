@@ -13,17 +13,13 @@
 - Created numerous projects following best practices to provide practical examples:
 	- Code generation regarding API documentation (Swagger Codegen)
 	- Implemented containerized testing (testcontainer)
-	- Experiment with frameworks and tools (GraphQL, Mapstruct,DynamoDB, Spring-Data)
-	- Setup Spring-boot project with DynamoDB, Spring-Data
+	- Experiment with frameworks and tools (DynamoDB, GraphQL, Mapstruct, Spring-Data)
 - Utilizing chatGPT for small pragmatic projects in Python and Java
 	- small GUI apps to add dark theme to open source apps (Deluge, Double Commander)
-	- spring-boot yml file resolver
-	Other project:
-	- Image to ASCII converter
-	- Sudoku puzzle generator
+	- Spring-boot yml file resolver
 
 **Database**: H2, MySQL, DynamoDB
 
 **Tools**: IntelliJ IDEA, Docker
 
-**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3, Double Commander 1.x, Deluge 2.x
+**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring-boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3, Double Commander 1.x, Deluge 2.x
