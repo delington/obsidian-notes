@@ -13,8 +13,7 @@
 - Created numerous projects following best practices to provide practical examples:
 	- Code generation regarding API documentation (Swagger Codegen)
 	- Implemented containerized testing (testcontainer)
-	- Practical application of Java, Kotlin and other frameworks in mini-projects
-	- Experiment with new frameworks (GraphQL, Mapstruct)
+	- Experiment with frameworks and tools (GraphQL, Mapstruct,DynamoDB, Spring-Data)
 	- Setup Spring-boot project with DynamoDB, Spring-Data
 - Utilizing chatGPT for small pragmatic projects in Python and Java
 	- small GUI apps to add dark theme to open source apps (Deluge, Double Commander)
