@@ -20,4 +20,4 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 
 **Tools**: IntelliJ IDEA, Docker
 
-**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, Gson, H2, JPA, MapStruct, JaCoCo Coverage, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3.x, Double Commander 1.x, Deluge 2.x
+**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, H2, JPA, MapStruct, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3.x
