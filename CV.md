@@ -49,4 +49,4 @@ Accenture (2021-05 -> 2022-01)
 
 **Tools**: Visual Studio Team Services (VSTS), Azure Devops, AWS DynamoDB, IntelliJ IDEA, Git, Maven, Docker, SourceTree, Teams, Mapstruct
 
-**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker Containers, Locust (Python load testing tool), Python, JSON Web Token (JWT), TM Forum Specifications
+**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, Locust (Python load testing tool), Python, JSON Web Token (JWT), TM Forum Specifications
