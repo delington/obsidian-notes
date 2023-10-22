@@ -39,7 +39,7 @@ Accenture (2021-05 -> 2022-01)
 **Participation:**
 
 - Review other developers' code, pair programming with them
-- Ramp up and help to integrate new developer to the team
+- Ramp up new developer to the team
 - Unit and load tests for back end, bug fixes, refactoring
 - Implement new features on back end
 - Monitoring deployments, CI/CD
