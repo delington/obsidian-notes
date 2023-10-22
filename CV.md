@@ -5,24 +5,23 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 
 **Project**: Personal study
 
-**Participation**:
+**Participation:**
 
 - Strategy game development in Godot:
 - Spring Boot app experiments:
-	- Containerized an existing application (Docker)
-	- In an existing application deprecated old APIs to modern ones
-	- Add small CSS framework for better design (Pico CSS)
+    - Containerized an existing application (Docker)
+    - In an existing application deprecated old APIs to modern ones
 - Created numerous projects following best practices to provide practical examples:
-	- Code generation regarding API documentation (Swagger Codegen)
-	- Implemented containerized testing (testcontainer)
-	- Experiment with frameworks and tools (DynamoDB, GraphQL, Mapstruct, Spring-Data)
-- Utilizing chatGPT for small pragmatic projects in Python and Java
+    - Code generation regarding API documentation (Swagger Codegen)
+    - Implemented containerized testing (testcontainer)
+    - Experiment with frameworks and tools (DynamoDB, GraphQL, Mapstruct, Spring-Data)
+    - Utilizing chatGPT for small pragmatic projects in Python and Java
 
 **Database**: H2, MySQL, DynamoDB
 
 **Tools**: IntelliJ IDEA, Docker
 
-**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, H2, JPA, MapStruct, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3.x
+**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, JPA, MapStruct, GraphQL, MySQL, Python 3.x
 
 ---
 
@@ -34,7 +33,7 @@ Accenture (2021-05 -> 2022-01)
 
 **Customer:** Telecommunications
 
-**Project:** Create micro-services as implementing rest APIs based on TM Forum specifications. 
+**Project:** Create micro-services as implementing rest APIs based on TM Forum specifications.
 
 **Participation:**
 
@@ -47,6 +46,13 @@ Accenture (2021-05 -> 2022-01)
 
 **Database:** DynamoDB
 
-**Tools**: Visual Studio Team Services (VSTS), Azure Devops, AWS DynamoDB, IntelliJ IDEA, Git, Maven, Docker, SourceTree, Teams, Mapstruct
+**Tools**: Visual Studio Team Services (VSTS), Azure Devops, AWS DynamoDB, IntelliJ IDEA, Git, Maven, SourceTree, Teams, Mapstruct
 
-**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, Locust (Python load testing tool), Python, JSON Web Token (JWT), TM Forum Specifications
+**Technologies**: Visual Studio Team Services (VSTS), Azure Devops, AWS DynamoDB, IntelliJ IDEA, Git, Maven, SourceTree, Teams, Mapstruct
+
+**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, Locust(Python), JSON Web Token (JWT), TM Forum Specifications
+
+---
+---
+Epam
+
