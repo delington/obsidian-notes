@@ -147,3 +147,62 @@ Rotated scrum master role.
 ---
 Epam (2019-03 -> 2019-06)
 
+**Job Position:** Software Engineer
+
+**Project Roles:** Develop, test and maintain 
+
+**Customer:** Travel & Hospitality 
+
+**Project:** upgrades, general platform improvements, maintenance and support
+
+**Participation:**
+
+- Upgrading an important app to new JDK and Spring Boot versions
+- General bug and live issue fixes
+- Version and dependency upgrades of shared components
+- Improving performance of the platform
+- Monitoring deployments
+- Performed on-call duties and supporting
+
+**Team:** Varying composition of developers from different locations: Amman, London and Szeged, 1 TPM from Brazil
+
+**Tools:** IntelliJ IDEA, Github
+
+**Technologies:** AWS, Spring Boot, Splunk, Grafana, Git, Java, JSP, JS, CSS
+
+---
+Epam (2018-02 -> 2019-03)
+
+**Job Position:** Software Engineer
+
+**Project Roles:** Develop, test, support
+
+**Customer:** Travel & Hospitality
+
+**Project:**
+
+Maintain and develop Content Management System of the Platform of the client
+
+**Participation:**
+
+- Help with support cases came to the support channel from users
+- Developing both FE and BE within a huge CMS
+- Wrote test for frontend and for backend code
+- Performed manual functional testing
+- Bug fixing
+- Monitoring deployments
+- Legacy code refactoring
+
+**Team:** 3 developers and 1 Tpm from Szeged, 3 dev from Amman, 1 Project Manager from USA
+
+**Database:** PostgreSQL, ElasticSearch
+
+**Tools:** IntelliJ IDEA Ultimate, Gradle, Grails Framework, Spring Batch, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Karma Plugin,
+
+Jasmine Testing Framework, Wiremock, JSP
+
+**Technologies:** Groovy, Javascript, AngularJS 1.4
+
+---
+INU IT (2018-07 -> 2019-01)
+
