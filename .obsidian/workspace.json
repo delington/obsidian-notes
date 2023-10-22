@@ -47,6 +47,16 @@
             }
           },
           {
+            "id": "2cb89e35689e9488",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "bf0bbb3df468cf3e",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3e47bbfba91e36b",
+  "active": "2cb89e35689e9488",
   "lastOpenFiles": [
     "Java/Java 14.md",
     "Java/Java 8.md",
