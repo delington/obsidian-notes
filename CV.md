@@ -5,10 +5,7 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 
 **Participation**:
 
-- Strategy game development in Godot (v3.5):
-	- design layout
-	- creating graphical and UI components
-	- game logic implementation
+- Strategy game development in Godot:
 - Spring Boot app experiments:
 	- Containerized an existing application (Docker)
 	- In an existing application deprecated old APIs to modern ones
@@ -18,8 +15,6 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 	- Implemented containerized testing (testcontainer)
 	- Experiment with frameworks and tools (DynamoDB, GraphQL, Mapstruct, Spring-Data)
 - Utilizing chatGPT for small pragmatic projects in Python and Java
-	- small GUI apps to add dark theme to open source apps (Deluge, Double Commander)
-	- Spring Boot yml file resolver
 
 **Database**: H2, MySQL, DynamoDB
 
