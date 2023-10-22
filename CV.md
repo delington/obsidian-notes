@@ -204,5 +204,42 @@ Jasmine Testing Framework, Wiremock, JSP
 **Technologies:** Groovy, Javascript, AngularJS 1.4
 
 ---
-INU IT (2018-07 -> 2019-01)
+---
+
+INU IT (2017-07 -> 2018-01)
+
+**Job Position:** Junior software developer 
+
+**Project Roles:** Node server developer 
+
+**Customer:** Media and shopping 
+
+**Project:**
+
+Node synchronize app, synchronizing SAP product attributes, categories and products with Magento by SAP's web services (SOAP) and Magento APIs (REST). 
+
+There was a cronjob which inspected only for product quantity change according SAP API's response (that cronjob ran by 5 minutes).
+
+In all 3 synchronize case there were comparing functions: which data has been created, changed deleted.
+
+For orders which statuses changed in SAP there was a polling cronjob that inspects which order status has been changed.
+
+**Participation:**
+
+- Developed the whole synchron application for attribute, category and product synchron
+- Created logging service for order requests from Magento and responses from SAP, logging the entire synchron cronjob process
+- Created Rest API for order forwarding from Magento to SAP
+
+**Team:** Team: 2 members
+
+**Database:** MySQL
+
+**Tools:** Magento(APIs), Express (NodeJS framework), third party Node modules (cronjob, js-logger, soap, ...), Sequelize, Microsoft Visual Code IDE, Navicat, Mocha (JS testing framework), Git, Bitbucket, Jira, SoapUI, Putty, WinSCP, Bitwise SSH Client
+
+**Technologies:** Javascript, Cronjob, REST, SOAP, Object Relational Mapping, SFTP, SSH, Unit testing
+
+---
+INU IT (2017-02 -> 2017-08)
+
+
 
