@@ -38,15 +38,12 @@ Accenture (2021-05 -> 2022-01)
 
 **Participation:**
 
-- Legacy code refactor
-- Review other developers' code
-- Pair programming with other developer
+- Review other developers' code, pair programming with them
 - Ramp up and help to integrate new developer to the team
-- Unit and load tests for back end, bug fixes
+- Unit and load tests for back end, bug fixes, refactoring
 - Implement new features on back end
-- Monitoring deployments, CD
-- Collaborate with lower (data access) and hi
-- Create Rest APIs for communication with front end
+- Monitoring deployments, CI/CD
+- Collaborate with data access and front end team around APIs
 
 **Database:** DynamoDB
 
