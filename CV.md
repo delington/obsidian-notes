@@ -110,3 +110,40 @@ Apply updates to the platform and make sure that the platform is stable and cont
 
 **Tools:** Squid-proxy, AWS Route 53, ECS, VPC, Jenkins, Trello, JIRA, Git, Maven, AWS CLI, Splunk, Grafana, Putty, Java, Python, AWS, proxy server, Http/Https, Docker Containers
 
+---
+Epam (2019-06 -> 2020-03)
+
+**Job Position:** Software engineer
+
+**Project Roles:** Develop, test and maintain 
+
+**Customer:** Travel & Hospitality 
+
+**Project:** brand differentiation and platform improvements
+
+**Participation:**
+
+- Legacy code refactor
+- Review other developers' code
+- Applying new testing framework for legacy app
+- Unit test for back end and front end
+- Implement new features on frontend and backend
+- Monitoring deployments
+- Performed on-call duties
+- Bug fixes
+- Investigated live site issues
+- Conducting a big audience meeting between developers
+
+**Team:** Varying composition of developers and managers from different locations: Szeged, Chicago, and Jordan.
+
+Rotated scrum master role.
+
+**Database:** ElasticSearch, DynamoDB
+
+**Tools:** IntelliJ IDEA, Github, IJ Karma Plugin, Jasmine Testing Framework, Wiremock, Tableau API, Figma, Maven, Trello, JIRA, Jenkins, AWS CLI, Putty, Vault
+
+**Technologies:** AWS, Java, Groovy, Kotlin, Project Reactor, JSP, JS, CSS, Splunk, Docker Containers, Grafana, Spring Boot, Jenkins, Git, AngularJS 1.4
+
+---
+Epam (2019-03 -> 2019-06)
+
