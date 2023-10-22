@@ -25,8 +25,8 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 **Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, H2, JPA, MapStruct, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3.x
 
 ---
-Accenture
----
+
+Accenture (2021-05 -> 2022-01)
 
 **Job Position:** Software engineer
 
