@@ -1,3 +1,6 @@
+Introduction:
+I am a Software Developer focused mainly on Java, but I have a wide range of interest in Information Technology. I have around 5 years of experience in enterprise product development, mainly in Spring MVC, Spring Boot with Java and Kotlin. I often used AWS technologies in project environment. I have experience working in different business domains like media, shopping, medical and telecommunication.
+
 **Project**: Personal study
 
 **Participation**:

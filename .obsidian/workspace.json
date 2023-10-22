@@ -47,22 +47,12 @@
             }
           },
           {
-            "id": "2cb89e35689e9488",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
-          },
-          {
             "id": "bf0bbb3df468cf3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Budapest sightseeing.md",
+                "file": "CV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,15 +208,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cb89e35689e9488",
+  "active": "bf0bbb3df468cf3e",
   "lastOpenFiles": [
+    "Budapest sightseeing.md",
+    "CV.md",
     "Java/Java 14.md",
     "Java/Java 8.md",
     "Java/Java versions.md",
-    "CV.md",
     "Games/Games.md",
     "Spring boot 2.7 to 3.md",
-    "Budapest sightseeing.md",
     "Hotel Delfin.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Java Weekly/Java weekly.md",
