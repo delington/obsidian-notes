@@ -25,6 +25,8 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 **Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, H2, JPA, MapStruct, GraphQL, MySQL, Pico CSS, Thymeleaf, Python 3.x
 
 ---
+Accenture
+---
 
 **Job Position:** Software engineer
 
@@ -48,11 +50,6 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 - Collaborate with the data access team for API coordination
 - Create Rest APIs for communication with front end
 - Create load tests
-
-**Team**:
-
-- 9 people team: 7 devs, 1 business analyst, 1 project manager
-- 10 people team: 5 back end devs, 1 pm, 1 ba, 2 front end devs, 1 UX designer
 
 **Database:** DynamoDB
 
