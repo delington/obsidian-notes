@@ -215,8 +215,7 @@ INU IT (2017-07 -> 2018-01)
 **Customer:** Media and shopping 
 
 **Project:**
-
-Node back-end app, synchronizing SAP product attributes, categories and products with Magento by SAP's web services (SOAP) and Magento APIs (REST). 
+Node back end app, synchronizing SAP products  to MySQL database by Magento APIs (REST)
 
 There was a cronjob which inspected only for product quantity change according SAP API's response (that cronjob ran by 5 minutes).
 
