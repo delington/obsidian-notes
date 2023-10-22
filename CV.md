@@ -34,7 +34,7 @@ Accenture (2021-05 -> 2022-01)
 
 **Customer:** Telecommunications
 
-**Project:** Create micro-services as implementing rest APIs based on TM Forum specifications. Provide data for front end. There was also a little part where we load tested different services with Locust(Python) framework.
+**Project:** Create micro-services as implementing rest APIs based on TM Forum specifications. 
 
 **Participation:**
 
@@ -42,14 +42,11 @@ Accenture (2021-05 -> 2022-01)
 - Review other developers' code
 - Pair programming with other developer
 - Ramp up and help to integrate new developer to the team
-- Unit test for back end
+- Unit and load tests for back end, bug fixes
 - Implement new features on back end
 - Monitoring deployments, CD
-- Bug fixes
-- Participating on team meetups
-- Collaborate with the data access team for API coordination
+- Collaborate with lower (data access) and hi
 - Create Rest APIs for communication with front end
-- Create load tests
 
 **Database:** DynamoDB
 
