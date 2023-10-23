@@ -25,15 +25,15 @@ Streaming service for medical (surgeon operation) purposes with Java Back End an
 
 **Participation:**
 
-- Built and deployed project to a server
-- Performed manual functional testing
-- Used third party FFMpeg maven module for rendering texts and pictures on the video (after changed OpenCV, because FFmpeg handles better UTF-8 characters)
-- Created Rest APIs for communicating with Front End by JSON
+- Build and deploy to an on-premise server
+- Manual testing
+- Used third party FFMpeg for rendering texts and pictures to the video
+- Created Rest APIs for front end using JSON format
 - Created repositories and models for Spring and Hibernate ORM
 - Created JUnit tests for controllers, services, repositories
 
 **Database:** MySQL
 
-**Tools:** Spring MVC, Spring Boot, Hibernate (with Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, OpenCV
+**Tools:** Spring MVC, Spring Boot, Hibernate (with Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman
 
 **Technologies:** Java, REST, Dependency Injection, Object Relational Mapping, MVC, Video rendering
