@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Games.md",
+                "file": "CV.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4de098f9e01d888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INU IT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Games.md",
+                "file": "INU IT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Games/Games.md",
+                "file": "INU IT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Games/Games.md"
+                "file": "INU IT.md"
               }
             }
           },
@@ -181,14 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b435365b3bb5cb2",
+  "active": "b4de098f9e01d888",
   "lastOpenFiles": [
     "CV.md",
+    "INU IT.md",
+    "Games/Games.md",
     "Budapest sightseeing.md",
     "Java/Java 14.md",
     "Java/Java 8.md",
     "Java/Java versions.md",
-    "Games/Games.md",
     "Spring boot 2.7 to 3.md",
     "Hotel Delfin.md",
     "Java Weekly/Consume HTTP like a pro.md",
@@ -221,7 +236,6 @@
     "2023-08-25.md",
     "Games",
     "Java",
-    "Core/Second.md",
     "Core",
     "348485763_193759473152506_51652286419197f32910_n.jpg",
     "IMG_20230621_110448.jpg",
