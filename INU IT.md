@@ -17,11 +17,13 @@ INU IT (2017-02 -> 2017-08)
 
 **Project Roles:** Back End developer 
 
-**Customer:** Medicine 
+**Customer:** 
+- Medicine 
+- Media and shopping
 
 **Project:**
-
-Streaming service for medical (surgeon operation) purposes with Java back end and Angular 2 front end
+- Streaming service for medical (surgeon operation) purposes with Java back end and Angular 2 front end
+- NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST)
 
 **Participation:**
 
@@ -33,6 +35,10 @@ Streaming service for medical (surgeon operation) purposes with Java back end an
 
 **Database:** MySQL
 
-**Tools:** Spring MVC, Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, Java, REST, Dependency Injection, Object Relational Mapping, MVC, Video rendering
+**Tools:** 
+- Spring MVC, Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman
+- Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Visual Studio Code IDE, Navicat, Mocha (JS testing framework), Git, Bitbucket, JIRA, SoapUI
 
-**Technologies:** Java, REST, Dependency Injection, Object Relational Mapping, MVC, Video rendering
+**Technologies:** 
+- Java, REST, MVC, Video rendering
+- Cronjob, REST, SOAP, Object Relational Mapping, NodeJS
