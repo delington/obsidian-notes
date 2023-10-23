@@ -11,7 +11,7 @@ NodeJS back end app, synchronizing SAP products to MySQL database by Magento API
 **Technologies:** Cronjob, REST, SOAP, Object Relational Mapping, NodeJS
 
 ---
-INU IT (2017-02 -> 2017-08)
+INU IT
 
 **Job Position:** Junior Software Developer 
 
@@ -36,9 +36,9 @@ INU IT (2017-02 -> 2017-08)
 **Database:** MySQL
 
 **Tools:** 
-- Spring MVC, Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman
-- Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Visual Studio Code IDE, Navicat, Mocha (JS testing framework), Git, Bitbucket, JIRA, SoapUI
+- Spring MVC, Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, Git, JIRA
+- Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Visual Studio Code IDE, Navicat, Mocha (JS testing framework), SoapUI
 
 **Technologies:** 
 - Java, REST, MVC, Video rendering
-- Cronjob, REST, SOAP, Object Relational Mapping, NodeJS
+- NodeJS, SOAP
