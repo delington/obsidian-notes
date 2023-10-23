@@ -17,11 +17,11 @@ INU IT (2017-02 -> 2017-08)
 
 **Project Roles:** Back End developer 
 
-**Customer:** Medicine and software development 
+**Customer:** Medicine 
 
 **Project:**
 
-Streaming service for medical (surgeon operation) purposes with Java Back End and Angular2 Front End.
+Streaming service for medical (surgeon operation) purposes with Java back end and Angular 2 front end
 
 **Participation:**
 
