@@ -1,16 +1,10 @@
 
 INU IT (2017-07 -> 2018-01)
 
-**Job Position:** Junior software developer 
-
-**Project Roles:** Node server developer 
-
 **Customer:** Media and shopping 
 
 **Project:**
 NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST)
-
-**Database:** MySQL
 
 **Tools:** Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Visual Studio Code IDE, Navicat, Mocha (JS testing framework), Git, Bitbucket, JIRA, SoapUI
 
