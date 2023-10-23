@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INU IT.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INU IT.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INU IT.md"
+                "file": "CV.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4de098f9e01d888",
+  "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
-    "CV.md",
     "INU IT.md",
+    "CV.md",
     "Games/Games.md",
     "Budapest sightseeing.md",
     "Java/Java 14.md",
