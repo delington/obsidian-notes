@@ -193,11 +193,10 @@ Epam (2018-02 -> 2019-03)
 
 **Database:** PostgreSQL, ElasticSearch
 
-**Tools:** Gradle, Grails Framework, Spring Batch, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Karma Plugin,
+**Tools:** Gradle, Grails Framework, Spring Batch, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock
+Wiremock
 
-Jasmine Testing Framework, Wiremock, JSP
-
-**Technologies:** Groovy, Javascript, AngularJS 1.4
+**Technologies:** Groovy, Java Servlet Pages
 
 ---
 
@@ -224,11 +223,11 @@ Jasmine Testing Framework, Wiremock, JSP
 **Database:** MySQL
 
 **Tools:** 
-- Spring MVC, Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, Git, JIRA
+- Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, Git, JIRA
 - Magento(APIs), Express (NodeJS framework), Sequelize, Navicat, Mocha (JS testing framework), SoapUI
 
 **Technologies:** 
-- Java 8, REST, Spring-MVC
+- Java 8, REST, Spring MVC, Spring Boot, JPA-Hibernate (Criteria API)
 - NodeJS, SOAP
 
 ---
