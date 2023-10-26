@@ -186,14 +186,14 @@ Epam (2018-02 -> 2019-03)
 - Developing both FE and BE within a huge CMS
 - Wrote test for frontend and for backend code
 - Performed manual functional testing
-- Develop, test, support, refactor, bug f
+- Develop, test, support, refactor, bug fix
 - Bug fixing
 - Monitoring deployments
 - Legacy code refactoring
 
 **Database:** PostgreSQL, ElasticSearch
 
-**Tools:** IntelliJ IDEA Ultimate, Gradle, Grails Framework, Spring Batch, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Karma Plugin,
+**Tools:** Gradle, Grails Framework, Spring Batch, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Karma Plugin,
 
 Jasmine Testing Framework, Wiremock, JSP
 
@@ -218,7 +218,7 @@ Jasmine Testing Framework, Wiremock, JSP
 - Build and deploy to an on-premise server
 - Use FFMpeg for rendering texts and pictures to the video
 - Created Rest APIs for front end using JSON format
-- Created repositories and models for Spring and Hibernate ORM
+- Created repositories and models for Spring and Hibernate
 - Created JUnit tests and manual testing
 
 **Database:** MySQL
