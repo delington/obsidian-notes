@@ -186,6 +186,7 @@ Epam (2018-02 -> 2019-03)
 - Developing both FE and BE within a huge CMS
 - Wrote test for frontend and for backend code
 - Performed manual functional testing
+- Develop, test, support, refactor, bug f
 - Bug fixing
 - Monitoring deployments
 - Legacy code refactoring
