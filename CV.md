@@ -54,10 +54,6 @@ Accenture (2021-05 -> 2022-01)
 ---
 Epam (2020-04 -> 2021-04)
 
-**Job Position:** Software engineer
-
-**Project Roles:** Develop, test, maintain, monitor
-
 **Customer:** Travel & Hospitality 
 
 **Project:**
@@ -70,133 +66,85 @@ Create a new feature module for the micro-service ecosystem. Integrate data coll
 - Applying new testing framework for legacy app
 - Unit test for back end and front end
 - Implement new features on frontend and backend
-- Monitoring deployments, CD
-- Participate in on-call duties
-- Bug fixes
-- Investigated live site issues
-- Make infrastructure changes through terraform
-
-**Team**: 3 devs and 1 pm from Szeged, 1 SEO specialist from Seattle
+- Develop, test, refactor, bug fix, monitor deployments, on-call duties
+- Infrastructure changes through terraform
 
 **Database:** DynamoDB
 
-**Tools:** HashiCorp Terraform, AWS DynamoDB, ECS, Qubole, Jenkins, Trello, Git, Maven, Splunk, Grafana, Testing Library (ReactJS), IntelliJ IDEA, Figma, Jest, Docker, SourceTree
+**Tools:** HashiCorp Terraform, DynamoDB, ECS, Qubole, Docker, Spinnaker
 
-**Technologies:** AWS, Spring Boot, Kotlin, Containers, ReactJS, TypeScript, TSX, SCSS
+**Technologies:** AWS, Spring Boot, Kotlin, Containers, CI/CD
 
 ---
 Epam (2020-03 -> 2020-04)
 
-**Job Position:** Software engineer
-
-**Project Roles:** Develop, test and maintain
-
 **Customer:** Travel & Hospitality
 
-**Project:**
-
-Apply updates to the platform and make sure that the platform is stable and continuously improving.
+**Project:** upgrades, general platform improvements, maintenance and support
 
 **Participation:**
 - Investigating downstream services route structure in Route 53 and what communication protocoll they use
 - Enable proxy in Java and Python applications
-- Monitoring deployments
-- Review other developers' code
-- Performed on-call duties
-
-**Team:** Team composition: 5 devs from Szeged, 2 devs from London, 1 dev and 1 manager from Amman.
+- Support, review code, monitoring deployments, on-call duties
 
 **Database: -**
 
-**Tools:** Squid-proxy, AWS Route 53, ECS, VPC, Jenkins, Trello, JIRA, Git, Maven, AWS CLI, Splunk, Grafana, Putty, Java, Python, AWS, proxy server, Http/Https, Docker Containers
+**Tools:** AWS Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
+
+**Technologies:** Java 11, Squid-proxy, CI/CD
 
 ---
 Epam (2019-06 -> 2020-03)
-
-**Job Position:** Software engineer
-
-**Project Roles:** Develop, test and maintain 
 
 **Customer:** Travel & Hospitality 
 
 **Project:** brand differentiation and platform improvements
 
 **Participation:**
-
-- Legacy code refactor
-- Review other developers' code
-- Applying new testing framework for legacy app
-- Unit test for back end and front end
-- Implement new features on frontend and backend
-- Monitoring deployments
-- Performed on-call duties
-- Bug fixes
-- Investigated live site issues
 - Conducting a big audience meeting between developers
-
-**Team:** Varying composition of developers and managers from different locations: Szeged, Chicago, and Jordan.
-
-Rotated scrum master role.
+- Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
 **Database:** ElasticSearch, DynamoDB
 
-**Tools:** IntelliJ IDEA, Github, IJ Karma Plugin, Jasmine Testing Framework, Wiremock, Tableau API, Figma, Maven, Trello, JIRA, Jenkins, AWS CLI, Putty, Vault
+**Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Grafana, AWS: ECS, Lambda, S3
 
-**Technologies:** AWS, Java, Groovy, Kotlin, Project Reactor, JSP, JS, CSS, Splunk, Docker Containers, Grafana, Spring Boot, Jenkins, Git, AngularJS 1.4
+**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Splunk, Docker Containers, Spring Boot, CI/CD
 
 ---
 Epam (2019-03 -> 2019-06)
-
-**Job Position:** Software Engineer
-
-**Project Roles:** Develop, test and maintain 
 
 **Customer:** Travel & Hospitality 
 
 **Project:** upgrades, general platform improvements, maintenance and support
 
 **Participation:**
-
-- Upgrading an important app to new JDK and Spring Boot versions
-- General bug and live issue fixes
+- Upgrading critical Spring Boot app from Java 8 to 11 and the regarding Spring Boot versions
 - Version and dependency upgrades of shared components
-- Improving performance of the platform
-- Monitoring deployments
-- Performed on-call duties and supporting
+- Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
-**Team:** Varying composition of developers from different locations: Amman, London and Szeged, 1 TPM from Brazil
+**Tools:** Maven, Github, Grafana, Haystack, Slack, AWS: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
 
-**Tools:** IntelliJ IDEA, Github
-
-**Technologies:** AWS, Spring Boot, Splunk, Grafana, Git, Java, JSP, JS, CSS
+**Technologies:** Java 8/11, Spring Boot, Splunk, Java JSP, JavaScript, CSS, CI/CD
 
 ---
 Epam (2018-02 -> 2019-03)
 
 **Job Position:** Software Engineer
 
-**Project Roles:** Develop, test, support
-
 **Customer:** Travel & Hospitality
 
 **Project:** Maintain and develop Content Management System of the Platform of the client
 
 **Participation:**
-- Help with support cases came to the support channel from users
-- Developing both FE and BE within a huge CMS
-- Wrote test for frontend and for backend code
-- Performed manual functional testing
-- Develop, test, support, refactor, bug fix
-- Bug fixing
-- Monitoring deployments
-- Legacy code refactoring
+- Support cases came to the dedicated channel from users and developers
+- Developing both FE and BE within a relatively bigger CMS
+- Develop, test, refactor, bug fix, monitor deployments, on-call duties
 
 **Database:** PostgreSQL, ElasticSearch
 
-**Tools:** Gradle, Grails Framework, Spring Batch, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock
-Wiremock
+**Tools:** Gradle, Grails Framework, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Haystack
 
-**Technologies:** Groovy, Java Servlet Pages
+**Technologies:** Groovy, Java JSP, Spring Batch, Tracing, CI/CD
 
 ---
 
@@ -237,4 +185,3 @@ Software developer (intern)
 
 - Participation in system design
 - Used elements: HTML, CSS
-
