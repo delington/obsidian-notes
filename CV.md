@@ -223,11 +223,11 @@ Wiremock
 **Database:** MySQL
 
 **Tools:** 
-- Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, Git, JIRA
+- FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, Git, JIRA
 - Magento(APIs), Express (NodeJS framework), Sequelize, Navicat, Mocha (JS testing framework), SoapUI
 
 **Technologies:** 
-- Java 8, REST, Spring MVC, Spring Boot, JPA-Hibernate (Criteria API)
+- Java 8, REST, Spring MVC, Spring Boot, JPA - Hibernate
 - NodeJS, SOAP
 
 ---
