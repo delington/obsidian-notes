@@ -34,25 +34,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2b652d514956271a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5d98fe1e70a2bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INU IT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -195,6 +176,8 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false
     }
   },
