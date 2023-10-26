@@ -6,12 +6,12 @@ INU IT (2017-07 -> 2018-01)
 **Project:**
 NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST)
 
-**Tools:** Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Visual Studio Code IDE, Navicat, Mocha (JS testing framework), Git, Bitbucket, JIRA, SoapUI
+**Tools:** Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Navicat, Mocha (JS testing framework), Git, Bitbucket, JIRA, SoapUI
 
 **Technologies:** Cronjob, REST, SOAP, Object Relational Mapping, NodeJS
 
 ---
-INU IT
+INU IT (2017-02 -> 2017-08)
 
 **Job Position:** Junior Software Developer 
 
@@ -40,5 +40,5 @@ INU IT
 - Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Visual Studio Code IDE, Navicat, Mocha (JS testing framework), SoapUI
 
 **Technologies:** 
-- Java, REST, MVC, Video rendering
+- Java 8, REST, MVC, Video rendering
 - NodeJS, SOAP
