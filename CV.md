@@ -204,70 +204,36 @@ Jasmine Testing Framework, Wiremock, JSP
 **Technologies:** Groovy, Javascript, AngularJS 1.4
 
 ---
----
-
-INU IT (2017-07 -> 2018-01)
-
-**Job Position:** Junior software developer 
-
-**Project Roles:** Node server developer 
-
-**Customer:** Media and shopping 
-
-**Project:**
-Node back end app, synchronizing SAP products  to MySQL database by Magento APIs (REST)
-
-**Participation:**
-
-- Developed the whole synchron application for attribute, category and product synchron
-- Created logging service for order requests from Magento and responses from SAP, logging the entire synchron cronjob process
-- Created Rest API for order forwarding from Magento to SAP
-
-**Database:** MySQL
-
-**Tools:** Magento(APIs), Express (NodeJS framework), Sequelize-ORM, Visual Studio Code IDE, Navicat, Mocha (JS testing framework), Git, Bitbucket, JIRA, SoapUI
-
-**Technologies:** Javascript, Cronjob, REST, SOAP, Object Relational Mapping, SFTP, SSH, Unit testing
-
----
-INU IT (2017-02 -> 2017-08)
 
 **Job Position:** Junior Software Developer 
 
 **Project Roles:** Back End developer 
 
-**Customer:** Medicine and software development 
+**Customer:** 
+- Medicine 
+- Media and shopping
 
 **Project:**
-
-Streaming service for medical (surgeon operation) purposes with Java Back End and Angular2 Front End.
-
-The main picture is that an instructor or major surgeon would like to teach residents but not all of them has place next to the operating table. 
-
-For this he/she create an event by the application (which can be free or paid) and will stream the operation with a high quality camera. Meanwhile the instructor's assistant can mark and text note the video at certain places for teaching purposes. (Phase 1)
-
-After the instructor finished his/her session the residents can stream back their own operation to the instructor and both of them can mark and text this video, because the doctor can switch in the students streams. (Phase 2)
-
-In the next section everyone watch back the instructor's recorded video while they can have conversations in a chat window. (Phase3)
-
-Under all of section there is a chat window where the instructor and its assistant can communicate with the residents in private or in global chat. After all phase the students can download their own recorded video and the major surgeons.
+- Streaming service for medical (surgeon operation) purposes with Java back end
+- NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST)
 
 **Participation:**
 
-- Built and deployed project to a server
-- Performed manual functional testing
-- Used third party FFMpeg maven module for rendering texts and pictures on the video (after changed OpenCV, because FFmpeg handles better UTF-8 characters)
-- Created Rest APIs for communicating with Front End by JSON
+- Build and deploy to an on-premise server
+- Use FFMpeg for rendering texts and pictures to the video
+- Created Rest APIs for front end using JSON format
 - Created repositories and models for Spring and Hibernate ORM
-- Created JUnit tests for controllers, services, repositories
-
-**Team:** Dev Team: 5 members
+- Created JUnit tests and manual testing
 
 **Database:** MySQL
 
-**Tools:** Spring MVC, Spring Boot, Hibernate (with Criteria API), Apache Tomcat, FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, OpenCV
+**Tools:** 
+- Spring MVC, Spring Boot, Hibernate (Criteria API), FFMpeg, Kurento Media Server, Eclipse IDE, NaviCat, Postman, Git, JIRA
+- Magento(APIs), Express (NodeJS framework), Sequelize, Navicat, Mocha (JS testing framework), SoapUI
 
-**Technologies:** Java, REST, Dependency Injection, Object Relational Mapping, MVC, Video rendering
+**Technologies:** 
+- Java 8, REST, MVC, Video rendering
+- NodeJS, SOAP
 
 ---
 University of Szeged - Department of Computational Optimization (2015-02 -> 2015-06)
