@@ -179,12 +179,9 @@ Epam (2018-02 -> 2019-03)
 
 **Customer:** Travel & Hospitality
 
-**Project:**
-
-Maintain and develop Content Management System of the Platform of the client
+**Project:** Maintain and develop Content Management System of the Platform of the client
 
 **Participation:**
-
 - Help with support cases came to the support channel from users
 - Developing both FE and BE within a huge CMS
 - Wrote test for frontend and for backend code
@@ -192,8 +189,6 @@ Maintain and develop Content Management System of the Platform of the client
 - Bug fixing
 - Monitoring deployments
 - Legacy code refactoring
-
-**Team:** 3 developers and 1 Tpm from Szeged, 3 dev from Amman, 1 Project Manager from USA
 
 **Database:** PostgreSQL, ElasticSearch
 
@@ -207,7 +202,7 @@ Jasmine Testing Framework, Wiremock, JSP
 
 **Job Position:** Junior Software Developer 
 
-**Project Roles:** Back End developer 
+**Project Roles:** Back end developer 
 
 **Customer:** 
 - Medicine 
@@ -232,7 +227,7 @@ Jasmine Testing Framework, Wiremock, JSP
 - Magento(APIs), Express (NodeJS framework), Sequelize, Navicat, Mocha (JS testing framework), SoapUI
 
 **Technologies:** 
-- Java 8, REST, MVC, Video rendering
+- Java 8, REST, Spring-MVC
 - NodeJS, SOAP
 
 ---

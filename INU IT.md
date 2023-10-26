@@ -15,7 +15,7 @@ INU IT (2017-02 -> 2017-08)
 
 **Job Position:** Junior Software Developer 
 
-**Project Roles:** Back End developer 
+**Project Roles:** Back end developer 
 
 **Customer:** 
 - Medicine 
