@@ -22,7 +22,7 @@ INU IT (2017-02 -> 2017-08)
 - Media and shopping
 
 **Project:**
-- Streaming service for medical (surgeon operation) purposes with Java back end and Angular 2 front end
+- Streaming service for medical (surgeon operation) purposes with Java back end
 - NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST)
 
 **Participation:**
