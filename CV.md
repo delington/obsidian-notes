@@ -57,7 +57,7 @@ Epam (2020-04 -> 2021-04)
 **Customer:** Travel & Hospitality 
 
 **Project:**
-Create a new feature module for the micro-service ecosystem. Integrate data collect from Qubole with AWS S3. We changed this to handle data not with Qubole but with self made Scala based ETL(Extract Transform Load) job. This job ran with AWS Gluejob with sceduled workflow.
+Create a new feature module for the micro-service ecosystem. Integrate data collect from Qubole with AWS S3. We changed this to handle data not with Qubole but with self made Scala based ETL(Extract Transform Load) job. This job ran with Amazon Gluejob with sceduled workflow.
 
 **Participation:**
 - Applying new testing framework for legacy app
