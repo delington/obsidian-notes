@@ -68,7 +68,7 @@ Create a new feature module for the micro-service ecosystem. Integrate data coll
 
 **Tools:** HashiCorp Terraform, DynamoDB, ECS, Qubole, Docker, Spinnaker
 
-**Technologies:** AWS, Spring Boot, Kotlin, Containers, CI/CD
+**Technologies:** AWS, Spring Boot, Kotlin, Containers, CI/CD, Agile/Scrum
 
 ---
 Epam (2020-03 -> 2020-04)
@@ -86,7 +86,7 @@ Epam (2020-03 -> 2020-04)
 
 **Tools:** AWS Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
 
-**Technologies:** Java 11, Squid-proxy, CI/CD
+**Technologies:** Java 11, Squid-proxy, CI/CD, Agile/Scrum
 
 ---
 Epam (2019-06 -> 2020-03)
@@ -103,7 +103,7 @@ Epam (2019-06 -> 2020-03)
 
 **Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Grafana, AWS: ECS, Lambda, S3
 
-**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Splunk, Docker Containers, Spring Boot, CI/CD
+**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Splunk, Docker Containers, Spring Boot, CI/CD, Agile/Scrum
 
 ---
 Epam (2019-03 -> 2019-06)
@@ -119,7 +119,7 @@ Epam (2019-03 -> 2019-06)
 
 **Tools:** Maven, Github, Grafana, Haystack, Slack, AWS: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
 
-**Technologies:** Java 8/11, Spring Boot, Splunk, Java JSP, JavaScript, CSS, CI/CD
+**Technologies:** Java 8/11, Spring Boot, Splunk, Java JSP, JavaScript, CSS, CI/CD, Agile/Scrum
 
 ---
 Epam (2018-02 -> 2019-03)
@@ -139,7 +139,7 @@ Epam (2018-02 -> 2019-03)
 
 **Tools:** Gradle, Grails Framework, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Haystack
 
-**Technologies:** Groovy, Java JSP, Spring Batch, Tracing, CI/CD
+**Technologies:** Groovy, Java JSP, Spring Batch, Tracing, CI/CD, Agile/Scrum
 
 ---
 
@@ -172,6 +172,7 @@ Epam (2018-02 -> 2019-03)
 **Technologies:** 
 - Java 8, REST, Spring MVC, Spring Boot, JPA - Hibernate
 - NodeJS, SOAP
+- Agile/Scrum
 
 ---
 University of Szeged - Department of Computational Optimization (2015-02 -> 2015-06)
