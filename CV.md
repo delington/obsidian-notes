@@ -35,19 +35,15 @@ Accenture (2021-05 -> 2022-01)
 
 **Participation:**
 
-- Review other developers' code, pair programming with them
-- Ramp up new developer to the team
-- Unit and load tests for back end, bug fixes, refactoring
-- Implement new features on back end
-- Monitoring deployments, CI/CD
+- Pair programming and ramp up colleague
 - Collaborate with data access and front end team around APIs
 - Develop, test, refactor, review, bug fix, monitor deployments
 
 **Database:** DynamoDB
 
-**Tools**: Visual Studio Team Services (VSTS), Azure Devops, IntelliJ IDEA, Git, Maven, SourceTree, Teams, Mapstruct
+**Tools**: Visual Studio Team Services (VSTS), Azure Devops, Git, Maven, Teams, Mapstruct
 
-**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, Locust (Python), JSON Web Token (JWT), TM Forum Specifications
+**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, Locust (Python), JSON Web Token (JWT), TM Forum Specifications, CI/CD, Agile/Scrum
 
 ---
 ---
