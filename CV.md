@@ -29,8 +29,6 @@ Accenture (2021-05 -> 2022-01)
 
 **Job Position:** Software engineer
 
-**Project Roles:** Develop, test, maintain, supervise
-
 **Customer:** Telecommunications
 
 **Project:** Create micro-services as implementing rest APIs based on TM Forum specifications.
@@ -43,10 +41,11 @@ Accenture (2021-05 -> 2022-01)
 - Implement new features on back end
 - Monitoring deployments, CI/CD
 - Collaborate with data access and front end team around APIs
+- Develop, test, refactor, review, bug fix, monitor deployments
 
 **Database:** DynamoDB
 
-**Tools**: Visual Studio Team Services (VSTS), Azure Devops, AWS DynamoDB, IntelliJ IDEA, Git, Maven, SourceTree, Teams, Mapstruct
+**Tools**: Visual Studio Team Services (VSTS), Azure Devops, IntelliJ IDEA, Git, Maven, SourceTree, Teams, Mapstruct
 
 **Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, Locust (Python), JSON Web Token (JWT), TM Forum Specifications
 
