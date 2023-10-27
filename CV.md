@@ -79,7 +79,7 @@ Epam (2020-03 -> 2020-04)
 
 **Database: -**
 
-**Tools:** AWS Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
+**Tools:** Github, Wiremock, Haystack, AWS Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
 
 **Technologies:** Java 11, Squid-proxy, CI/CD, Agile/Scrum
 
