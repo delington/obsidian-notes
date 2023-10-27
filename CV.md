@@ -60,13 +60,8 @@ Epam (2020-04 -> 2021-04)
 Create a new feature module for the micro-service ecosystem. Integrate data collect from Qubole with AWS S3. We changed this to handle data not with Qubole but with self made Scala based ETL(Extract Transform Load) job. This job ran with AWS Gluejob with sceduled workflow.
 
 **Participation:**
-
-- Legacy code refactor
-- Review other developers' code
 - Applying new testing framework for legacy app
-- Unit test for back end and front end
-- Implement new features on frontend and backend
-- Develop, test, refactor, bug fix, monitor deployments, on-call duties
+- Develop, test, refactor, review, bug fix, monitor deployments, on-call duties
 - Infrastructure changes through terraform
 
 **Database:** DynamoDB
