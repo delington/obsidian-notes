@@ -33,17 +33,16 @@ Accenture (2021-05 -> 2022-01)
 
 **Project:** Create micro-services as implementing rest APIs based on TM Forum specifications.
 
-**Participation:**
-
+**Participation:** 
 - Pair programming and ramp up colleague
 - Collaborate with data access and front end team around APIs
 - Develop, test, refactor, review, bug fix, monitor deployments
 
 **Database:** DynamoDB
 
-**Tools**: Visual Studio Team Services (VSTS), Azure Devops, Git, Maven, Teams, Mapstruct
+**Tools**: Visual Studio Team Services (VSTS), Azure Devops, Git, Maven, Teams, Mapstruct, Locust (Python)
 
-**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, Locust (Python), JSON Web Token (JWT), TM Forum Specifications, CI/CD, Agile/Scrum
+**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, JSON Web Token (JWT), TM Forum Specifications, CI/CD, Agile/Scrum
 
 ---
 ---
@@ -61,7 +60,7 @@ Create a new feature module for the micro-service ecosystem. Integrate data coll
 
 **Database:** DynamoDB
 
-**Tools:** HashiCorp Terraform, ECS, Qubole, Docker, Spinnaker
+**Tools:** Github, HashiCorp Terraform, ECS, Qubole, Docker, Spinnaker
 
 **Technologies:** AWS, Spring Boot, Kotlin, Containers, CI/CD, Agile/Scrum
 
