@@ -61,7 +61,7 @@ Create a new feature module for the micro-service ecosystem. Integrate data coll
 
 **Database:** DynamoDB
 
-**Tools:** HashiCorp Terraform, DynamoDB, ECS, Qubole, Docker, Spinnaker
+**Tools:** HashiCorp Terraform, ECS, Qubole, Docker, Spinnaker
 
 **Technologies:** AWS, Spring Boot, Kotlin, Containers, CI/CD, Agile/Scrum
 
