@@ -6,14 +6,7 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 **Project**: Personal study
 
 **Participation:**
-- Spring Boot app experiments:
-    - Containerized an existing application (Docker)
-    - Deprecated old APIs to modern ones
-- Created numerous projects following best practices to provide practical examples:
-    - Code generation regarding API documentation (Swagger Codegen)
-    - Implemented containerized testing (testcontainer)
-    - Experiment with frameworks and tools (DynamoDB, GraphQL, Mapstruct, Spring-Data)
-    - Utilizing chatGPT for small pragmatic projects in Python and Java
+- Experiment with frameworks and tools
 - Game development in Godot
 
 **Database**: H2, MySQL, DynamoDB
@@ -131,9 +124,9 @@ Epam (2018-02 -> 2019-03)
 
 **Database:** PostgreSQL, ElasticSearch
 
-**Tools:** Gradle, Grails Framework, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Haystack, Spring Data
+**Tools:** Gradle, Grails, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Haystack, Spring Data, Spring Batch
 
-**Technologies:** Groovy, Java JSP, Spring Batch, Tracing, CI/CD, Agile/Scrum
+**Technologies:** Groovy, Java JSP, Tracing, CI/CD, Agile/Scrum
 
 ---
 
