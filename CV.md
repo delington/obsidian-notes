@@ -6,11 +6,10 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 **Project**: Personal study
 
 **Participation:**
-
-- Strategy game development in Godot:
+- Game development in Godot:
 - Spring Boot app experiments:
     - Containerized an existing application (Docker)
-    - In an existing application deprecated old APIs to modern ones
+    - Deprecated old APIs to modern ones
 - Created numerous projects following best practices to provide practical examples:
     - Code generation regarding API documentation (Swagger Codegen)
     - Implemented containerized testing (testcontainer)
@@ -57,7 +56,7 @@ Create a new feature module for the client's micro-service ecosystem.
 - Implement, test, refactor, review, bug fix, monitor deployments, on-call duties
 - Apply circuit breaking to the system
 - Infrastructure changes through Terraform
-- Manage cross-account S3 bucket permissions
+	- Manage cross-account S3 bucket permissions
 
 **Database:** DynamoDB
 
