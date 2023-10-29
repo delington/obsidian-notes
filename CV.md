@@ -57,12 +57,11 @@ Create a new feature module for the client's micro-service ecosystem.
 - Implement, test, refactor, review, bug fix, monitor deployments, on-call duties
 - Understand Qubole data process
 - Infrastructure changes through Terraform
-	- Manage cross-account bucket permissions
-	- Add S3 creation and permissions
+- Manage cross-account S3 bucket permissions
 
 **Database:** DynamoDB
 
-**Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker
+**Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker, Resilience4J
 
 **Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Splunk, CI/CD, Agile/Scrum
 
