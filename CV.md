@@ -72,6 +72,7 @@ Epam (2020-03 -> 2020-04)
 **Database: -**
 
 **Tools:** Github, Wiremock, Amazon Route 53, ECS, VPC, proxy server, Docker
+- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Java 11, Python, Squid-proxy, Containers
 
@@ -89,6 +90,7 @@ Epam (2019-06 -> 2020-03)
 **Database:** ElasticSearch, DynamoDB
 
 **Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3
+- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Containers, Spring Boot
 
@@ -105,6 +107,7 @@ Epam (2019-03 -> 2019-06)
 - Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
 **Tools:** Maven, Github, Slack, Amazon: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
+- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Java 8/11, Spring Boot, Java JSP, JavaScript, CSS
 
@@ -124,7 +127,9 @@ Epam (2018-02 -> 2019-03)
 
 **Database:** PostgreSQL, ElasticSearch
 
-**Tools:** Gradle, Grails, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Spring Data, Spring Batch, Haystack, Prometheus, Grafana, Splunk
+**Tools:** 
+- Gradle, Grails, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Spring Data, Spring Batch
+- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Groovy, Java JSP, Tracing, CI/CD, Agile/Scrum
 
