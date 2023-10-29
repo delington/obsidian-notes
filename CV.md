@@ -55,7 +55,7 @@ Create a new feature module for the client's micro-service ecosystem.
 
 **Participation:**
 - Implement, test, refactor, review, bug fix, monitor deployments, on-call duties
-- Understand Qubole data process
+- Apply circuit breaking to the system
 - Infrastructure changes through Terraform
 - Manage cross-account S3 bucket permissions
 
@@ -63,7 +63,7 @@ Create a new feature module for the client's micro-service ecosystem.
 
 **Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker, Resilience4J
 
-**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Splunk, CI/CD, Agile/Scrum
+**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Splunk, CI/CD, Agile/Scrum, Circuit breaking
 
 ---
 Epam (2020-03 -> 2020-04)
