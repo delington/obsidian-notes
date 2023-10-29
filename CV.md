@@ -93,7 +93,7 @@ Epam (2019-06 -> 2020-03)
 
 **Tools:** 
 - Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3, Project Reactor
-- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
+- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Kibana
 
 **Technologies:** Java 11, Groovy, Kotlin, Containers, Spring Boot, Reactive programming
 
