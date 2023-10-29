@@ -7,7 +7,7 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 
 **Participation:**
 - Experiment with frameworks and tools
-- Game development in Godot
+- Game development
 
 **Database**: H2, MySQL, DynamoDB
 
@@ -104,7 +104,7 @@ Epam (2019-03 -> 2019-06)
 - Version and dependency upgrades of shared components
 - Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
-**Tools:** Maven, Github, Slack, AWS: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
+**Tools:** Maven, Github, Slack, Amazon: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
 
 **Technologies:** Java 8/11, Spring Boot, Java JSP, JavaScript, CSS
 
