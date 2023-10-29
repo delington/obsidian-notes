@@ -146,8 +146,8 @@ Epam (2018-02 -> 2019-03)
 - Media and shopping
 
 **Project:**
-- Streaming service for medical (surgeon operation) purposes with Java back end
-- NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST)
+- Streaming service for medical (surgeon operation) purposes with Java back end - 6 months
+- NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST) - 5 months
 
 **Participation:**
 - Build and deploy to an on-premise server
