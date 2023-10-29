@@ -54,16 +54,16 @@ Epam (2020-04 -> 2021-04)
 Create a new feature module for the micro-service ecosystem. Integrate data collect from Qubole with Amazon S3. We changed this to handle data not with Qubole but with self made Scala based ETL(Extract Transform Load) job. This job ran with Amazon Gluejob with sceduled workflow.
 
 **Participation:**
-- Communicate with external teams
 - Implement, test, refactor, review, bug fix, monitor deployments, on-call duties
 - Infrastructure changes through Terraform
-- 
+	- Manage cross-account bucket permissions
+	- S3 creation
 
 **Database:** DynamoDB
 
-**Tools:** Github, HashiCorp Terraform, ECS, Qubole, Docker, Spinnaker
+**Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker
 
-**Technologies:** AWS, Spring Boot, Kotlin, Containers, CI/CD, Agile/Scrum
+**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, CI/CD, Agile/Scrum
 
 ---
 Epam (2020-03 -> 2020-04)
@@ -79,7 +79,7 @@ Epam (2020-03 -> 2020-04)
 
 **Database: -**
 
-**Tools:** Github, Wiremock, Haystack, AWS Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
+**Tools:** Github, Wiremock, Haystack, Amazon Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
 
 **Technologies:** Java 11, Squid-proxy, CI/CD, Agile/Scrum
 
@@ -96,7 +96,7 @@ Epam (2019-06 -> 2020-03)
 
 **Database:** ElasticSearch, DynamoDB
 
-**Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Grafana, AWS: ECS, Lambda, S3
+**Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Grafana, Amazon ECS, Lambda, S3
 
 **Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Splunk, Docker Containers, Spring Boot, CI/CD, Agile/Scrum
 
