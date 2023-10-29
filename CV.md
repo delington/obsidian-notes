@@ -18,9 +18,9 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 
 **Database**: H2, MySQL, DynamoDB
 
-**Tools**: IntelliJ IDEA, Docker
+**Tools**: IntelliJ IDEA, Docker, Retrofit2, MapStruct, Grafana, Prometheus
 
-**Technologies**: Java 11/17, Kotlin 1.5, JUnit 5, Spring Boot 2.6.4, Retrofit2, JPA, MapStruct, GraphQL, MySQL, Python 3.x
+**Technologies**: Java 11/17, Kotlin 1.5, Spring Boot 2.6.4, JPA, GraphQL, Python 3.x
 
 ---
 
