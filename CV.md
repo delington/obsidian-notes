@@ -71,7 +71,7 @@ Epam (2020-03 -> 2020-04)
 
 **Database: -**
 
-**Tools:** Github, Wiremock, Haystack, Amazon Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers, Splunk
+**Tools:** Github, Wiremock, Haystack, Amazon Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
 
 **Technologies:** Java 11, Squid-proxy
 
@@ -88,9 +88,9 @@ Epam (2019-06 -> 2020-03)
 
 **Database:** ElasticSearch, DynamoDB
 
-**Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Grafana, Amazon ECS, Lambda, S3
+**Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3
 
-**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Splunk, Docker Containers, Spring Boot
+**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Containers, Spring Boot
 
 ---
 Epam (2019-03 -> 2019-06)
@@ -104,9 +104,9 @@ Epam (2019-03 -> 2019-06)
 - Version and dependency upgrades of shared components
 - Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
-**Tools:** Maven, Github, Grafana, Haystack, Slack, AWS: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB, Grafana, Prometheus
+**Tools:** Maven, Github, Slack, AWS: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
 
-**Technologies:** Java 8/11, Spring Boot, Splunk, Java JSP, JavaScript, CSS, CI/CD, Agile/Scrum
+**Technologies:** Java 8/11, Spring Boot, Java JSP, JavaScript, CSS
 
 ---
 Epam (2018-02 -> 2019-03)
@@ -124,7 +124,7 @@ Epam (2018-02 -> 2019-03)
 
 **Database:** PostgreSQL, ElasticSearch
 
-**Tools:** Gradle, Grails, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Haystack, Spring Data, Spring Batch
+**Tools:** Gradle, Grails, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Spring Data, Spring Batch, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Groovy, Java JSP, Tracing, CI/CD, Agile/Scrum
 
@@ -141,7 +141,6 @@ Epam (2018-02 -> 2019-03)
 - NodeJS back end app, synchronizing SAP products to MySQL database by Magento APIs (REST)
 
 **Participation:**
-
 - Build and deploy to an on-premise server
 - Use FFMpeg for rendering texts and pictures to the video
 - Created Rest APIs for front end using JSON format
