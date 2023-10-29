@@ -92,10 +92,10 @@ Epam (2019-06 -> 2020-03)
 **Database:** ElasticSearch, DynamoDB
 
 **Tools:** 
-- Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3
+- Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3, Project Reactor
 - Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
-**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Containers, Spring Boot
+**Technologies:** Java 11, Groovy, Kotlin, Containers, Spring Boot, Reactive programming
 
 ---
 Epam (2019-03 -> 2019-06)
