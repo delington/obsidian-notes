@@ -131,15 +131,13 @@ Epam (2018-02 -> 2019-03)
 
 **Database:** PostgreSQL, ElasticSearch
 
-**Tools:** Gradle, Grails Framework, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Haystack
+**Tools:** Gradle, Grails Framework, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Haystack, Spring Data
 
 **Technologies:** Groovy, Java JSP, Spring Batch, Tracing, CI/CD, Agile/Scrum
 
 ---
 
 **Job Position:** Junior Software Developer 
-
-**Project Roles:** Back end developer 
 
 **Customer:** 
 - Medicine 
