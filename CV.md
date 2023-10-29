@@ -42,8 +42,7 @@ Epam (2020-04 -> 2021-04)
 
 **Customer:** Travel & Hospitality 
 
-**Project:**
-Create a new feature module for the client's micro-service ecosystem.
+**Project:** Create a new feature module for the client's micro-service ecosystem.
 
 **Participation:**
 - Implement, test, refactor, review, bug fix, monitor deployments, on-call duties
@@ -64,7 +63,7 @@ Epam (2020-03 -> 2020-04)
 
 **Customer:** Travel & Hospitality
 
-**Project:** upgrades, general platform improvements, maintenance and support
+**Project:** Upgrades, general platform improvements, maintenance and support
 
 **Participation:**
 - Investigating downstream services route structure in Route 53 and what communication protocoll they use
@@ -84,7 +83,7 @@ Epam (2019-06 -> 2020-03)
 
 **Customer:** Travel & Hospitality 
 
-**Project:** brand differentiation and platform improvements
+**Project:** Brand differentiation and platform improvements
 
 **Participation:**
 - Conducting a big audience meeting between developers
@@ -103,7 +102,7 @@ Epam (2019-03 -> 2019-06)
 
 **Customer:** Travel & Hospitality 
 
-**Project:** upgrades, general platform improvements, maintenance and support
+**Project:** Upgrades, general platform improvements, maintenance and support
 
 **Participation:**
 - Upgrading critical Spring Boot app from Java 8 to 11 and the regarding Spring Boot versions
