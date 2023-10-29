@@ -32,9 +32,9 @@ Accenture (2021-05 -> 2022-01)
 
 **Database:** DynamoDB
 
-**Tools**: Visual Studio Team Services (VSTS), Azure Devops, Git, Maven, Teams, Mapstruct, Locust (Python), Swagger-codegen
+**Tools**: Docker, Visual Studio Team Services (VSTS), Azure Devops, Git, Maven, Teams, Mapstruct, Locust (Python), Swagger-codegen
 
-**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, JSON Web Token (JWT), TM Forum Specifications, CI/CD, Agile/Scrum
+**Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, JSON Web Token (JWT), TM Forum Specifications, Containers, CI/CD, Agile/Scrum
 
 ---
 ---
@@ -53,9 +53,9 @@ Create a new feature module for the client's micro-service ecosystem.
 
 **Database:** DynamoDB
 
-**Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker, Resilience4J
+**Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker, Resilience4J, Datadog
 
-**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Splunk, Circuit breaking
+**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Circuit breaking
 
 ---
 Epam (2020-03 -> 2020-04)
@@ -71,9 +71,9 @@ Epam (2020-03 -> 2020-04)
 
 **Database: -**
 
-**Tools:** Github, Wiremock, Haystack, Amazon Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
+**Tools:** Github, Wiremock, Amazon Route 53, ECS, VPC, proxy server, Docker
 
-**Technologies:** Java 11, Squid-proxy
+**Technologies:** Java 11, Python, Squid-proxy, Containers
 
 ---
 Epam (2019-06 -> 2020-03)
