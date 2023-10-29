@@ -53,7 +53,9 @@ Create a new feature module for the client's micro-service ecosystem.
 
 **Database:** DynamoDB
 
-**Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker, Resilience4J, Datadog
+**Tools:** 
+- HashiCorp Terraform, Amazon ECS, Qubole, Spinnaker, Resilience4J, Datadog
+- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Circuit breaking
 
@@ -71,8 +73,9 @@ Epam (2020-03 -> 2020-04)
 
 **Database: -**
 
-**Tools:** Github, Wiremock, Amazon Route 53, ECS, VPC, proxy server, Docker
-- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
+**Tools:** 
+- Wiremock, Amazon Route 53, ECS, VPC, proxy server
+- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Java 11, Python, Squid-proxy, Containers
 
@@ -89,8 +92,9 @@ Epam (2019-06 -> 2020-03)
 
 **Database:** ElasticSearch, DynamoDB
 
-**Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3
-- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
+**Tools:** 
+- Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3
+- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Containers, Spring Boot
 
@@ -106,8 +110,9 @@ Epam (2019-03 -> 2019-06)
 - Version and dependency upgrades of shared components
 - Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
-**Tools:** Maven, Github, Slack, Amazon: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
-- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
+**Tools:** 
+- Maven, Github, Slack, Amazon: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
+- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Java 8/11, Spring Boot, Java JSP, JavaScript, CSS
 
@@ -129,7 +134,7 @@ Epam (2018-02 -> 2019-03)
 
 **Tools:** 
 - Gradle, Grails, Amazon SNS, Amazon SQS, GORM (Groovy ORM), Spock, Wiremock, Spring Data, Spring Batch
-- Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
+- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 **Technologies:** Groovy, Java JSP, Tracing, CI/CD, Agile/Scrum
 
