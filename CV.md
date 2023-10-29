@@ -51,19 +51,20 @@ Epam (2020-04 -> 2021-04)
 **Customer:** Travel & Hospitality 
 
 **Project:**
-Create a new feature module for the micro-service ecosystem. Integrate data collect from Qubole with Amazon S3. We changed this to handle data not with Qubole but with self made Scala based ETL(Extract Transform Load) job. This job ran with Amazon Gluejob with sceduled workflow.
+Create a new feature module for the client's micro-service ecosystem.
 
 **Participation:**
 - Implement, test, refactor, review, bug fix, monitor deployments, on-call duties
+- Understand Qubole data process
 - Infrastructure changes through Terraform
 	- Manage cross-account bucket permissions
-	- S3 creation
+	- Add S3 creation and permissions
 
 **Database:** DynamoDB
 
 **Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker
 
-**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, CI/CD, Agile/Scrum
+**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Splunk, CI/CD, Agile/Scrum
 
 ---
 Epam (2020-03 -> 2020-04)
@@ -79,7 +80,7 @@ Epam (2020-03 -> 2020-04)
 
 **Database: -**
 
-**Tools:** Github, Wiremock, Haystack, Amazon Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers
+**Tools:** Github, Wiremock, Haystack, Amazon Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers, Splunk
 
 **Technologies:** Java 11, Squid-proxy, CI/CD, Agile/Scrum
 
