@@ -6,7 +6,6 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 **Project**: Personal study
 
 **Participation:**
-- Game development in Godot:
 - Spring Boot app experiments:
     - Containerized an existing application (Docker)
     - Deprecated old APIs to modern ones
@@ -15,10 +14,11 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
     - Implemented containerized testing (testcontainer)
     - Experiment with frameworks and tools (DynamoDB, GraphQL, Mapstruct, Spring-Data)
     - Utilizing chatGPT for small pragmatic projects in Python and Java
+- Game development in Godot
 
 **Database**: H2, MySQL, DynamoDB
 
-**Tools**: IntelliJ IDEA, Docker, Retrofit2, MapStruct, Grafana, Prometheus
+**Tools**: IntelliJ IDEA, Docker, Retrofit2, MapStruct, Grafana, Prometheus, Godot, Gatling, Apache JMeter, Swagger-Codegen, Spring Data
 
 **Technologies**: Java 11/17, Kotlin 1.5, Spring Boot 2.6.4, JPA, GraphQL, Python 3.x
 
@@ -39,7 +39,7 @@ Accenture (2021-05 -> 2022-01)
 
 **Database:** DynamoDB
 
-**Tools**: Visual Studio Team Services (VSTS), Azure Devops, Git, Maven, Teams, Mapstruct, Locust (Python)
+**Tools**: Visual Studio Team Services (VSTS), Azure Devops, Git, Maven, Teams, Mapstruct, Locust (Python), Swagger-codegen
 
 **Technologies**: Spring Boot 2.x, Kotlin 1.4, Java 11, Docker, JSON Web Token (JWT), TM Forum Specifications, CI/CD, Agile/Scrum
 
