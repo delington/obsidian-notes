@@ -118,7 +118,7 @@ Epam (2019-03 -> 2019-06)
 ---
 Epam (2018-02 -> 2019-03)
 
-**Job Position:** Software Engineer
+**Job Position:** Junior Software Engineer
 
 **Customer:** Travel & Hospitality
 
