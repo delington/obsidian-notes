@@ -13,7 +13,7 @@ I am a Software Developer focused mainly on Java, but I have a wide range of int
 
 **Tools**: IntelliJ IDEA, Docker, Retrofit2, MapStruct, Grafana, Prometheus, Godot, Gatling, Apache JMeter, Swagger-Codegen, Spring Data
 
-**Technologies**: Java 11/17, Kotlin 1.5, Spring Boot 2.6.4, JPA, GraphQL, Python 3.x
+**Technologies**: Java 11/17, Kotlin 1.5, Spring Boot 2.6.4, JPA, GraphQL, Python 3.x, Container
 
 ---
 
@@ -55,7 +55,7 @@ Create a new feature module for the client's micro-service ecosystem.
 
 **Tools:** Github, HashiCorp Terraform, Amazon ECS, Qubole, Docker, Spinnaker, Resilience4J
 
-**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Splunk, CI/CD, Agile/Scrum, Circuit breaking
+**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Splunk, Circuit breaking
 
 ---
 Epam (2020-03 -> 2020-04)
@@ -73,7 +73,7 @@ Epam (2020-03 -> 2020-04)
 
 **Tools:** Github, Wiremock, Haystack, Amazon Route 53, ECS, VPC, Java, Python, AWS, proxy server, Docker Containers, Splunk
 
-**Technologies:** Java 11, Squid-proxy, CI/CD, Agile/Scrum
+**Technologies:** Java 11, Squid-proxy
 
 ---
 Epam (2019-06 -> 2020-03)
@@ -90,7 +90,7 @@ Epam (2019-06 -> 2020-03)
 
 **Tools:** Github, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Grafana, Amazon ECS, Lambda, S3
 
-**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Splunk, Docker Containers, Spring Boot, CI/CD, Agile/Scrum
+**Technologies:** Java 11, Groovy, Kotlin, Project Reactor, Splunk, Docker Containers, Spring Boot
 
 ---
 Epam (2019-03 -> 2019-06)
@@ -104,7 +104,7 @@ Epam (2019-03 -> 2019-06)
 - Version and dependency upgrades of shared components
 - Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
-**Tools:** Maven, Github, Grafana, Haystack, Slack, AWS: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
+**Tools:** Maven, Github, Grafana, Haystack, Slack, AWS: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB, Grafana, Prometheus
 
 **Technologies:** Java 8/11, Spring Boot, Splunk, Java JSP, JavaScript, CSS, CI/CD, Agile/Scrum
 
