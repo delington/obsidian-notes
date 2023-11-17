@@ -7,32 +7,23 @@
 - Infrastructure changes through Terraform
     - Manage cross-account S3 bucket permissions
 
-**Technologies, Tools:**
+**Tools:**
 - Kotlin, DynamoDB, Terraform, Amazon ECS, Qubole, Spinnaker, Resilience4J, Datadog, Redis cache
 - Spring Boot, Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 ---
-
-**Customer:** Travel & Hospitality
-
 **Project:** Upgrades, general platform improvements, maintenance and support
 
 **Participation:**
-
 - Investigating downstream services route structure in Route 53 and what communication protocol they use
 - Enable proxy in Java and Python applications
 - Support, review code, monitoring deployments, on-call duties
 
 **Tools:**
-
-- Wiremock, Amazon Route 53, ECS, VPC, proxy server
-- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Mockito
-
-**Technologies:** Java 11, Python, Squid-proxy, Containers
+- Java 11, Python, Wiremock, Amazon Route 53, ECS, VPC, Squid-proxy
+- Spring-Boot, Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Mockito
 
 ---
-
-**Customer:** Travel & Hospitality
 
 **Project:** Brand differentiation and platform improvements
 
@@ -41,12 +32,10 @@
 - Conducting a big audience meeting between developers
 - Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
-**Database:** ElasticSearch, DynamoDB
-
 **Tools:**
 
-- Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3, Project Reactor, Kibana
-- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Mockito
+- Java 11, Groovy, Kotlin, ElasticSearch, DynamoDB, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3, Project Reactor, Kibana
+- Spring Boot, Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Mockito
 
 **Technologies:** Java 11, Groovy, Kotlin, Containers, Spring Boot, Reactive programming
 
