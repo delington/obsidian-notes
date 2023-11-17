@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Budapest sightseeing.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Budapest sightseeing.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Budapest sightseeing.md"
+                "file": "CV.md"
               }
             }
           },
@@ -182,8 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4de098f9e01d888",
+  "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
+    "Budapest sightseeing.md",
     "Java Weekly/Java weekly.md",
     "TODO study.md",
     "Java Weekly/Consume HTTP like a pro.md",
@@ -192,7 +192,6 @@
     "CV.md",
     "Java/Java 12.md",
     "Games/Games.md",
-    "Budapest sightseeing.md",
     "Java/Java 14.md",
     "Java/Java 8.md",
     "Java/Java versions.md",
