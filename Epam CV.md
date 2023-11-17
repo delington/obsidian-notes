@@ -1,20 +1,15 @@
 **Customer:** Travel & Hospitality
 
-**Project:** Create a new feature module for the client's micro-service ecosystem
+**Project:** Create a new feature module for the client's micro-service ecosystem - 1 year
 
 **Participation:**
-
 - Implement, test, refactor, review, bug fix, monitor deployments, on-call duties
 - Infrastructure changes through Terraform
     - Manage cross-account S3 bucket permissions
 
-**Database:** DynamoDB
-
-**Tools:**
-- HashiCorp Terraform, Amazon ECS, Qubole, Spinnaker, Resilience4J, Datadog, Redis cache
-- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
-
-**Technologies:** Kotlin, Spring Boot, Infrastructure as code (IAC), Containers, Circuit breaking
+**Technologies, Tools:**
+- Kotlin, DynamoDB, Terraform, Amazon ECS, Qubole, Spinnaker, Resilience4J, Datadog, Redis cache
+- Spring Boot, Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk
 
 ---
 
