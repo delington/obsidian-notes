@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Weekly/Java weekly.md",
+                "file": "Budapest sightseeing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Weekly/Java weekly.md",
+                "file": "Budapest sightseeing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Weekly/Java weekly.md",
+                "file": "Budapest sightseeing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Weekly/Java weekly.md"
+                "file": "Budapest sightseeing.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "b4de098f9e01d888",
   "lastOpenFiles": [
-    "TODO study.md",
     "Java Weekly/Java weekly.md",
+    "TODO study.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Spring boot 2.7 to 3.md",
     "INU IT.md",
