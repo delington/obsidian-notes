@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "3cfb68afff52ec2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epam CV.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b4de098f9e01d888",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "Epam CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CV.md",
+                "file": "Epam CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CV.md"
+                "file": "Epam CV.md"
               }
             }
           },
@@ -181,15 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b435365b3bb5cb2",
+  "active": "3cfb68afff52ec2f",
   "lastOpenFiles": [
+    "CV.md",
+    "Epam CV.md",
     "Budapest sightseeing.md",
     "Java Weekly/Java weekly.md",
     "TODO study.md",
     "Java Weekly/Consume HTTP like a pro.md",
     "Spring boot 2.7 to 3.md",
     "INU IT.md",
-    "CV.md",
     "Java/Java 12.md",
     "Games/Games.md",
     "Java/Java 14.md",
@@ -218,7 +233,6 @@
     "Java/Java 10.md",
     "Java Weekly",
     "Java/Java 9.md",
-    "Java/Java 11.md",
     "Java Weekly",
     "Games",
     "Java",
