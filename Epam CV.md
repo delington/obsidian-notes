@@ -33,17 +33,12 @@
 - Develop, test, refactor, bug fix, support, monitor deployments, on-call duties
 
 **Tools:**
-
 - Java 11, Groovy, Kotlin, ElasticSearch, DynamoDB, Wiremock, Trello, JIRA, Jenkins, HashiCorp-Vault, Amazon ECS, Lambda, S3, Project Reactor, Kibana
 - Spring Boot, Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Mockito
 
-**Technologies:** Java 11, Groovy, Kotlin, Containers, Spring Boot, Reactive programming
-
 ---
 
-Software Engineer
-
-**Customer:** Travel & Hospitality
+**Role:** Software Engineer
 
 **Project:** Upgrades, general platform improvements, maintenance and support
 
@@ -55,14 +50,12 @@ Software Engineer
 
 **Tools:**
 
-- Maven, Github, Slack, Amazon: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB
-- Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Mockito
-
-**Technologies:** Java 8/11, Spring Boot, Java JSP, JavaScript, CSS
+- Java 8/11, Maven, Github, Slack, Amazon: EC2, ECS, Lambda, RDS, S3, Route 53, DynamoDB, Java JSP, JavaScript, CSS
+- Spring Boot, Docker, Github, Jenkins, Haystack, Prometheus, Grafana, Splunk, Mockito
 
 ---
 
-Junior Software Engineer
+**Role:** Junior Software Engineer
 
 **Customer:** Travel & Hospitality
 
