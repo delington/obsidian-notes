@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Epam CV.md",
+                "file": "CV.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Epam CV.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Epam CV.md",
+                "file": "CV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Epam CV.md"
+                "file": "CV.md"
               }
             }
           },
@@ -197,8 +197,8 @@
   },
   "active": "3cfb68afff52ec2f",
   "lastOpenFiles": [
-    "CV.md",
     "Epam CV.md",
+    "CV.md",
     "Budapest sightseeing.md",
     "Java Weekly/Java weekly.md",
     "TODO study.md",
