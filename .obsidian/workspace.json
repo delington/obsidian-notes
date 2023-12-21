@@ -13,54 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CV.md",
+                "file": "Java/Java 17.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3cfb68afff52ec2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Budapest sightseeing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43b275e6d1db1df2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Budapest sightseeing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4de098f9e01d888",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Budapest sightseeing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Budapest sightseeing.md",
+                "file": "Java/Java 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Budapest sightseeing.md",
+                "file": "Java/Java 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Budapest sightseeing.md"
+                "file": "Java/Java 17.md"
               }
             }
           },
@@ -208,20 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43b275e6d1db1df2",
+  "active": "5b435365b3bb5cb2",
   "lastOpenFiles": [
-    "Advice.md",
-    "Budapest sightseeing.md",
+    "Java/Java 14.md",
     "TODO study.md",
+    "Spring boot 2.7 to 3.md",
     "CV.md",
+    "Budapest sightseeing.md",
+    "Advice.md",
     "Epam CV.md",
     "Java Weekly/Java weekly.md",
     "Java Weekly/Consume HTTP like a pro.md",
-    "Spring boot 2.7 to 3.md",
     "INU IT.md",
     "Java/Java 12.md",
     "Games/Games.md",
-    "Java/Java 14.md",
     "Java/Java 8.md",
     "Java/Java versions.md",
     "Hotel Delfin.md",
